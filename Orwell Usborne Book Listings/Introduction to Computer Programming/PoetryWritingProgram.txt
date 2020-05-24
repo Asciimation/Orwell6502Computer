@@ -1,0 +1,13 @@
+ 10 PRINT "WHAT IS YOUR NAME"                                                   
+ 20 INPUT N$                                                                    
+ 30 PRINT "A POEM BY"                                                           
+ 40 PRINT N$                                                                    
+ 50 PRINT "TYPE IN A WORD"                                                      
+ 60 PRINT "THAT RHYMES WITH ME"                                                 
+ 70 INPUT A$                                                                    
+ 80 PRINT "HERE IS THE POEM"                                                    
+ 90 PRINT "COMPUTERS USED TO FRIGHTEN                                           
+ME"                                                                             
+ 100 PRINT "BUT NOW I`M HAPPY AS A"                                             
+ 110 PRINT A$                                                                   
+ 120 END  

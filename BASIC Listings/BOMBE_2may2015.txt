@@ -1,0 +1,151 @@
+
+100 REM ENIGMA rotors and layout
+110 REM   "ABCDEFGHIJKLMNOPQRSTUVWXYZ ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
+120 R1$ = "EKMFLGDQVZNTOWYHXUSPAIBRCJ UWYGADFPVZBECKMTHXSLRINQOJ" : REM I
+140 R2$ = "AJDKSIRUXBLHWTMCQGZNPYFVOE AJPCZWRLFBDKOTYUQGENHXMIVS" : REM II
+160 R3$ = "BDFHJLCPRTXVZNYEIWGAKMUSQO TAGBPCSDQEUFVNZHYIXJWLRKOM" : REM III
+180 R4$ = "ESOVPZJAYQUIRHXLNFTGKDCMWB HZWVARTNLGUPXQCEJMBSKDYOIF" : REM IV  
+200 R5$ = "VZBRGITYUPSDNHLXAWMJQOFECK QCYLXWENFTZOSMVJUDKGIARPHB" : REM V
+
+220 REM ENIGMA refelctors
+230 UB$ = "YRUHQSLDPXNGOKMIEBFZCWVJAT" : REM Reflector B
+240 UC$ = "FVPJIAOYEDRZXWGCTKUQSBNMHL" : REM Reflector C
+
+250 REM Bombe setup
+260 D1$ = R3$ : REM Top drum
+270 D2$ = R2$ : REM Middle drum
+280 D3$ = R1$ : REM Bottom drum
+290 RF$ = UB$ : REM Reflector
+
+300 DIM SO$(11) : REM Scramblers relative offsets
+310 DIM SL$(11) : REM Scramblers output letters
+
+320 REM Some required variables
+330 OF$ = "ZZZ" : REM Scrambler offset 
+340 SV = 0 : REM Scrambler value
+350 V$ = "" : REM Scrambler character
+360 OD = 0 : REM Offset Current scrambler drum
+370 TD$ = "" : REM Current scrambler rotor
+
+400 DIM DB(25,25) : REM Diagonal board
+410 DL$ = "" : REM Diagonal board letter
+420 DIM DI(25) : REM Diagonal board input
+
+500 DIM LA(25,25) : REM Letters array
+510 DIM CO(4,25) : REM Connections array
+520 DIM ID$(2) : REM Indicator drums
+
+550 IV = 0 : REM Input letter
+560 IL = 0 : REM Input letter
+
+
+1000 REM Main program -------------------------------------
+1010 PRINT : PRINT "ROTOR POSITION"; : INPUT OF$
+1020 PRINT : PRINT "INPUT LETTER"; : INPUT L$
+1030 SV = ASC(L$) - 64
+1040 GOSUB 2000
+1050 GOSUB 3000
+1060 PRINT "OUTPUT LETTER: "; : PRINT V$
+1070 PRINT "NEW OFFSET: "; : PRINT OF$
+1080 GOTO 1040
+
+2000 REM Scrambler ----------------------------------------
+2010 TD$ = D1$
+2020 OD = ASC(MID$(OF$, 3, 1)) - 65
+2030 GOSUB 2400 : REM Calculate scrambler offset
+2040 GOSUB 2500 : REM Forward through rotor
+
+2050 TD$ = D2$
+2060 OD = ASC(MID$(OF$, 2, 1)) - 65
+2070 GOSUB 2400 : REM Calculate scrambler offset
+2080 GOSUB 2500 : REM Forward through rotor
+
+2090 TD$ = D3$
+2100 OD = ASC(MID$(OF$, 1, 1)) - 65
+2110 GOSUB 2400 : REM Calculate scrambler offset
+2120 GOSUB 2500 : REM Forward through rotor
+
+2130 V$ = MID$(RF$, SV, 1)
+2140 SV = ASC(V$) - 64 
+2150 V$ = CHR$(SV+64)
+
+2160 TD$ = D3$
+2170 OD = ASC(MID$(OF$, 1, 1)) - 65
+2180 GOSUB 2400 : REM Calculate scrambler offset
+2190 GOSUB 2600 : REM Back through rotor
+
+2200 TD$ = D2$
+2210 OD = ASC(MID$(OF$, 2, 1)) - 65
+2220 GOSUB 2400 : REM Calculate scrambler offset
+2230 GOSUB 2600 : REM Back through rotor
+
+2240 TD$ = D1$
+2250 OD = ASC(MID$(OF$, 3, 1)) - 65
+2260 GOSUB 2400 : REM Calculate scrambler offset
+2270 GOSUB 2600 : REM Back through rotor
+
+2400 REM Calculate scrambler offset -----------------------
+2410 SV = SV + OD
+2420 IF SV > 26 THEN SV = SV - 26
+2430 RETURN
+
+2500 REM Forward through scrambler ------------------------
+2510 V$ = MID$(TD$, SV, 1)  
+2520 SV = (ASC(V$) - 64) - OD
+2530 IF SV < 1 THEN SV = SV + 26 
+2540 V$ = CHR$(SV+64)
+2550 RETURN
+
+2600 REM Back through scrambler ---------------------------
+2610 V$ = MID$(TD$, SV + 27, 1)  
+2620 SV = (ASC(V$) - 64) - OD
+2630 IF SV < 1 THEN SV = SV + 26 
+2640 V$ = CHR$(SV+64)
+2650 RETURN
+
+3000 REM Increment offset ---------------------------------
+3010 L$ = LEFT$(OF$, 1)
+3020 L = ASC(L$)
+3030 L = L + 1 
+3040 IF L > 90 THEN L = 65 
+3050 L$ = CHR$(L) 
+3060 OF$ = L$ + RIGHT$(OF$, 2)
+3070 IF L$ <> "A" THEN GOTO 3300
+
+3100 L$ = MID$(OF$, 2, 1)
+3110 L = ASC(L$)
+3120 L = L + 1
+3130 IF L > 90 THEN L = 65
+3140 L$ = CHR$(L)
+3150 OF$ = LEFT$(OF$, 1) + L$ + RIGHT$(OF$, 1)
+3160 IF L$ <> "A" THEN GOTO 3300
+
+3200 L$ = RIGHT$(OF$, 1)
+3210 L = ASC(L$)
+3220 L = L + 1
+3230 IF L > 90 THEN L = 65
+3240 L$ = CHR$(L)
+3250 OF$ = LEFT$(OF$,2) + L$
+3300 RETURN
+
+4000 REM Diagonal board ---------------------------------
+4010 FOR I = 0 TO 25
+4020 IF DI(I) = 0 THEN GOTO 4050
+4030 DB(I, ASC(DL$) - 65) = 1
+4040 DB(ASC(DL$) - 65, I) = 1
+4050 NEXT I 
+4060 RETURN
+
+4200 REM Print Diagonal board ---------------------------------
+4210 FOR J = 0 TO 25
+4220 FOR I = 0 TO 25
+4230 PRINT DB(I,J);
+4240 NEXT I
+4250 PRINT
+4260 NEXT J
+4270 PRINT
+4280 RETURN
+
+
+
+

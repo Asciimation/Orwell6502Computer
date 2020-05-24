@@ -1,0 +1,66 @@
+
+100 REM ENIGMA rotors and layout
+110 REM   "ABCDEFGHIJKLMNOPQRSTUVWXYZ ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
+120 R1$ = "EKMFLGDQVZNTOWYHXUSPAIBRCJ UWYGADFPVZBECKMTHXSLRINQOJ" : REM I
+140 R2$ = "AJDKSIRUXBLHWTMCQGZNPYFVOE AJPCZWRLFBDKOTYUQGENHXMIVS" : REM II
+160 R3$ = "BDFHJLCPRTXVZNYEIWGAKMUSQO TAGBPCSDQEUFVNZHYIXJWLRKOM" : REM III
+180 R4$ = "ESOVPZJAYQUIRHXLNFTGKDCMWB HZWVARTNLGUPXQCEJMBSKDYOIF" : REM IV  
+200 R5$ = "VZBRGITYUPSDNHLXAWMJQOFECK QCYLXWENFTZOSMVJUDKGIARPHB" : REM V
+
+220 REM ENIGMA refelctors
+230 UB$ = "YRUHQSLDPXNGOKMIEBFZCWVJAT" : REM Reflector B
+240 UC$ = "FVPJIAOYEDRZXWGCTKUQSBNMHL" : REM Reflector C
+
+250 REM Bombe setup
+260 D1$ = R3$ : REM Top drum
+270 D2$ = R2$ : REM Middle drum
+280 D3$ = R1$ : REM Bottom drum
+290 RF$ = UB$ : REM Reflector
+
+300 DIM DO(11) : REM Drum bank relative offsets
+
+310 REM Some required variables
+320 OF$ = "AAA" : REM Scrambler offset 
+330 SV = 0 : REM Scrambler value
+340 V$ = "" : REM Scrambler character
+350 OD = 0 : REM Offset Current scrambler drum
+360 TD$ = "" : REM Current scrambler rotor
+
+400 DIM DB(5, 5) : REM Diagonal board
+410 DL$ = "" : REM Diagonal board letter
+420 DIM DI(5) : REM Diagonal board input
+
+1000 REM Main program -------------------------------------
+1010  REM GOSUB 4200
+1020 DL$ = "A"
+1030 DI(1) = 1
+1040 GOSUB 4000
+1050 GOSUB 4200
+1060 DL$ = "C"
+1070 DI(1) = 0: DI(4) = 1
+1080 GOSUB 4000
+1090 GOSUB 4200
+1100 END
+
+4000 REM Diagonal board ---------------------------------
+4010 FOR I = 0 TO 5
+4020 IF DI(I) = 0 THEN GOTO 4050
+4030 DB(I, ASC(DL$) - 65) = 1
+4040 DB(ASC(DL$) - 65, I) = 1
+4050 NEXT I 
+4060 RETURN
+
+4200 REM Print Diagonal board ---------------------------------
+4210 FOR J = 0 TO 5
+4220 FOR I = 0 TO 5
+4230 PRINT DB(I,J);
+4240 NEXT I
+4250 PRINT
+4260 NEXT J
+4270 PRINT
+4280 RETURN
+
+
+
+
+

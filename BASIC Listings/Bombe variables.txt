@@ -1,0 +1,116 @@
+ENIGMA rotors.
+R1$ : ENIGMA rotor I layout.
+R2$ : ENIGMA rotor II layout.
+R3$ : ENIGMA rotor III layout.
+R4$ : ENIGMA rotor IV layout.
+R5$ : ENIGMA rotor V layout.
+
+ENIGMA reflectors.
+UB$ : ENIGMA Reflector B.
+UC$ : ENIGMA Reflector C.
+
+BOMBE settings.
+D1$ : Top bombe drum.
+D2$ : Middle bombe drum.
+D3$ : Bottom bombe drum.
+RF$ : Bombe Reflector.
+SO$(11) : Scramblers relative offsets. 12 offsets for the 12 columns of scramblers.
+SL$(11) : Scramblers output letters. Each scrambler feeds into a letter in the menu.
+
+DIM DO(2) : Current drum offsets
+280 D : Drum offset from ENIGMA rotor 
+
+LA(25,25) : Letters array
+
+Diagonal board.
+DL$ : Diagonal board letter
+DI(25) : Diagonal board input
+
+ID$ : Indicator drums
+
+Menu settings.
+ML$(25) : Menu letter array
+ML : Number of menu letters
+MC(25,4) : Menu connections array
+
+IV = 0 : Input voltage letter
+IL = 0 : Test stecker letter
+IS = 0 : Tested all indicator
+
+P = 0 : Print flag (1 = print)
+
+Scrambler subroutines.
+CS$ : Current scrambler offset "???"
+CD$ : Current scrambler drum "???....????"
+OD : Current scrambler drum offset [0..25]
+SV : Current scrambler letter value [1..26]
+V$ : Current scrambler letter [A..Z]
+OD : Drum offset for current scrambler [0..25]
+L$ : Current scrambler drum letter [A..Z]
+L  : Current scrambler drum letter value [0..25]
+SL : Scrambler output letter value [0..25]
+
+Scrambler routine.
+Get the top (fast) drum into CD$
+    Get the offset OD of the top drum of the current scrambler CS$
+    Get the current scrambler letter value SV by adding the current drum offset OD
+    Return the matching output letter V$ for that position SV in that drum CD$
+Get the middle drum into CD$
+    Get the offset OD of the top drum of the current scrambler CS$
+    Get the current scrambler letter value SV by adding the current drum offset OD
+    Return the matching output letter V$ for that position SV in that drum CD$
+Get the bottom (slow) drum into CD$
+    Get the offset OD of the top drum of the current scrambler CS$
+    Get the current scrambler letter value SV by adding the current drum offset OD
+    Return the matching output letter V$ for that position SV in that drum CD$
+Return the reflector output value V$ from RF$ using position SV
+Return back through drums as above to give output letter V$
+
+Increment scrambler offset.
+For the top (fast) drum of the scrambler CS$
+    Get the drum offset letter L$
+    Get the value for the letter L
+    Increment the value by 1
+    Handle wraparound (from Z to A)
+    Set new drum offset
+    If wrapped go to middle drum
+For the middle drum of scrambler CS$ 
+    Get the drum offset letter L$
+    Get the value for the letter L
+    Increment the value by 1
+    Handle wraparound (from Z to A)
+    Set new drum offset
+    If wrapped go to bottom (slow) drum 
+For the slow drum of scrambler CS$    
+    Get the drum offset letter L$
+    Get the value for the letter L
+    Increment the value by 1
+    Handle wraparound (from Z to A)
+    Set new drum offset
+    
+Decrement indicator drums.
+For the top (fast) drum of the indicator ID$
+    Get the drum offset letter L$
+    Get the value for the letter L
+    Decrement the value by 1
+    Handle wraparound (from A to Z)
+    Set new drum offset
+    If wrapped go to middle drum
+For the middle drum of scrambler ID$ 
+    Get the drum offset letter L$
+    Get the value for the letter L
+    Decrement the value by 1
+    Handle wraparound (from A to Z)
+    Set new drum offset
+    If wrapped go to bottom (slow) drum 
+For the slow drum of scrambler ID$    
+    Get the drum offset letter L$
+    Get the value for the letter L
+    Decrement the value by 1
+    Handle wraparound (from A to Z)
+    Set new drum offset    
+        
+Diagonal board.
+For each voltage I set on the diagonal board input register DI
+     In letter array LA set a 1 in row (I), column (value of input letter DL$)
+     In letter array LA set a 1 in row (value of input letter DL$), column I

@@ -1,0 +1,524 @@
+100 REM ENIGMA rotors and layout
+101 REM Rotors I, II, III are 1 letter behind
+102 REM Rotor IV is 2 letters behind
+103 REM Rotor V is 3 letters behind
+REM       "ABCDEFGHIJKLMNOPQRSTUVWXYZ ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
+REM R1$ = "EKMFLGDQVZNTOWYHXUSPAIBRCJ UWYGADFPVZBECKMTHXSLRINQOJ" : REM I
+REM R2$ = "AJDKSIRUXBLHWTMCQGZNPYFVOE AJPCZWRLFBDKOTYUQGENHXMIVS" : REM II
+REM R3$ = "BDFHJLCPRTXVZNYEIWGAKMUSQO TAGBPCSDQEUFVNZHYIXJWLRKOM" : REM III
+REM R4$ = "ESOVPZJAYQUIRHXLNFTGKDCMWB HZWVARTNLGUPXQCEJMBSKDYOIF" : REM IV  
+REM R5$ = "VZBRGITYUPSDNHLXAWMJQOFECK QCYLXWENFTZOSMVJUDKGIARPHB" : REM V
+
+110 REM   "ABCDEFGHIJKLMNOPQRSTUVWXYZ ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
+120 R1$ = "EKMFLGDQVZNTOWYHXUSPAIBRCJ UWYGADFPVZBECKMTHXSLRINQOJ" : REM I
+130 R2$ = "AJDKSIRUXBLHWTMCQGZNPYFVOE AJPCZWRLFBDKOTYUQGENHXMIVS" : REM II
+140 R3$ = "BDFHJLCPRTXVZNYEIWGAKMUSQO TAGBPCSDQEUFVNZHYIXJWLRKOM" : REM III
+150 R4$ = "ESOVPZJAYQUIRHXLNFTGKDCMWB HZWVARTNLGUPXQCEJMBSKDYOIF" : REM IV  
+160 R5$ = "VZBRGITYUPSDNHLXAWMJQOFECK QCYLXWENFTZOSMVJUDKGIARPHB" : REM V
+
+200 REM ENIGMA reflectors
+210 UB$ = "YRUHQSLDPXNGOKMIEBFZCWVJAT" : REM Reflector B
+220 UC$ = "FVPJIAOYEDRZXWGCTKUQSBNMHL" : REM Reflector C
+230 RF$ = " " : REM Bombe Reflector
+240 D1$ = " " : REM Top bombe drum
+250 D2$ = " " : REM Middle bombe drum
+260 D3$ = " " : REM Bottom bombe drum
+270 DIM DO(2) : REM Current drum offsets
+280 D : REM Drum offset from ENIGMA rotor 
+
+300 REM Scramblers
+310 DIM SO$(11) : REM Scramblers relative offsets
+320 DIM SL$(11) : REM Scramblers output letters
+
+400 DIM LA(25,25) : REM Letters array
+
+500 DL$ = "" : REM Diagonal board letter
+510 DIM DI(25) : REM Diagonal board input
+
+600 ID$ = "ZZZ" : REM Indicator drums
+
+650 P = 0 : REM Debug printing
+
+710 REM Menu settings
+710 ML = 0 : REM Number of menu letters
+720 DIM ML$(25) : REM Menu letters array
+730 DIM MC(25,4) : REM Menu connections array
+
+800 IV = 0 : REM Input voltage letter
+810 IL = 0 : REM Test menu letter
+
+900 REM Scrambler routine variables
+910 CS$ = "ZZZ" : REM Scrambler offset 
+920 SV = 1 : REM Scrambler value
+930 V$ = "" : REM Scrambler character
+940 OD = 0 : REM Offset current scrambler drum
+950 CD$ = "" : REM Current scrambler rotor
+960 L$ = "" : REM Scrambler drum letter
+970 L = 0 : REM Scrambler drum letter value
+980 SL = 0 : REM Scramblers connected output letter
+
+1000 REM ---------- Main program ----------
+1005 CLS
+1010 REM Bombe setup
+1020 PRINT "READING BOMBE SETUP DATA..." : PRINT
+1030 GOSUB 10000
+
+1040 PRINT "TOP DRUM: "; : CD$ = D1$ : GOSUB 1600
+1050 PRINT "MIDDLE DRUM: "; : CD$ = D2$ : GOSUB 1600
+1060 PRINT "BOTTOM DRUM: "; : CD$ = D3$ : GOSUB 1600
+1070 PRINT "REFLECTOR: "; : GOSUB 1700
+
+1080 PRINT "SCRAMBLERS: "
+1090 GOSUB 1800 : REM Print scramblers
+1100 PRINT 
+
+1130 PRINT "SCRAMBLER OUTPUT LETTERS: ";
+1140 FOR I = 0 TO 11
+1150 PRINT SL$(I); : PRINT " ";
+1160 NEXT I
+1170 PRINT 
+
+1180 PRINT "NUMBER OF MENU LETTERS: "; : PRINT ML
+
+1200 PRINT "MENU LETTERS: ";
+1210 FOR I = 0 TO ML
+1220 PRINT ML$(I); : PRINT " ";
+1230 NEXT I
+1240 PRINT 
+
+1250 PRINT "INPUT MENU LETTER: "; : PRINT ML$(0);
+1260 PRINT
+
+1270 PRINT "INPUT STECKER LETTER: "; : PRINT CHR$(IV+65);
+1280 PRINT
+
+1290 PRINT "CONNECTIONS:"
+1300 FOR I = 1 TO ML 
+1310 PRINT ML$(I-1); : PRINT ":";
+1320 FOR J = 0 TO 4 
+1330 IF MC(I-1, J) <> 0 THEN PRINT MC(I-1, J);
+1340 NEXT J
+1350 PRINT
+1360 NEXT I
+
+1370 PRINT "INDICATOR START: "; : PRINT ID$
+1400 IF ID$ = "ZZZ" THEN GOTO 1500
+1410 PRINT "OFFSETTING SCRAMBLERS:"
+1420 FOR K = 0 TO 11
+1430 IF LEN(SO$(K)) = 0 THEN GOTO 1480
+1440 CS$ = SO$(K)
+1450 GOSUB 2800 : REM Increment drums
+1460 SO$(K) = CS$
+1470 NEXT K
+1480 GOSUB 1800 : REM Print scramblers
+
+1500 GOSUB 5000 :  REM Solve subroutine.
+
+1510 END
+
+1600 REM ---------- Print drum number subroutine ----------
+1610 IF CD$ = R1$ THEN PRINT "I"
+1620 IF CD$ = R2$ THEN PRINT "II"
+1630 IF CD$ = R3$ THEN PRINT "III"
+1640 IF CD$ = R4$ THEN PRINT "IV"
+1650 IF CD$ = R5$ THEN PRINT "V"
+1660 RETURN
+
+1700 REM ---------- Print reflector subroutine ----------
+1710 IF RF$ = UB$ THEN PRINT "B"
+1720 IF RF$ = UC$ THEN PRINT "C"
+1730 RETURN
+
+1800 REM ---------- Print scrambler subroutine ----------
+1810 FOR K = 0 TO 11
+1820 FOR K1 = 0 TO 2
+1830 L = ASC(MID (SO$(K),K1,1))
+1840 L = L + DO(K1)
+1850 IF L > 90 THEN L = L - 26 
+1860 PRINT CHR$(L);
+1870 NEXT K1
+1880 PRINT " ";
+1890 NEXT K
+1900 RETURN
+
+2000 REM ---------- Scrambler subroutine ----------
+2005 REM PRINT "INPUT: "; : PRINT CHR$(SV+64); 
+2010 CD$ = D3$
+2020 OD = ASC(MID$(CS$, 3, 1)) - 65
+2030 GOSUB 2400 : REM Calculate scrambler offset
+2040 GOSUB 2500 : REM Forward through rotor
+
+2050 CD$ = D2$
+2060 OD = ASC(MID$(CS$, 2, 1)) - 65
+2070 GOSUB 2400 : REM Calculate scrambler offset
+2080 GOSUB 2500 : REM Forward through rotor
+
+2090 CD$ = D1$
+2100 OD = ASC(MID$(CS$, 1, 1)) - 65
+2110 GOSUB 2400 : REM Calculate scrambler offset
+2120 GOSUB 2500 : REM Forward through rotor
+
+2130 V$ = MID$(RF$, SV, 1)
+2140 SV = ASC(V$) - 64 
+
+2160 CD$ = D1$
+2170 OD = ASC(MID$(CS$, 1, 1)) - 65
+2180 GOSUB 2400 : REM Calculate scrambler offset
+2190 GOSUB 2600 : REM Back through rotor
+
+2200 CD$ = D2$
+2210 OD = ASC(MID$(CS$, 2, 1)) - 65
+2220 GOSUB 2400 : REM Calculate scrambler offset
+2230 GOSUB 2600 : REM Back through rotor
+
+2240 CD$ = D3$
+2250 OD = ASC(MID$(CS$, 3, 1)) - 65
+2260 GOSUB 2400 : REM Calculate scrambler offset
+2270 GOSUB 2600 : REM Back through rotor
+
+2275 REM PRINT " OUTPUT: "; : PRINT V$ 
+
+2300 RETURN
+
+2350 REM ---------- Wrap scrambler offset subroutine ----------
+2360 IF SV < 1 THEN SV = SV + 26 : GOTO 2360
+2370 IF SV > 26 THEN SV = SV - 26 : GOTO 2370
+2380 RETURN
+
+2400 REM ---------- Scrambler offset subroutine ----------
+2410 SV = SV + OD - 25
+2420 GOSUB 2350
+2440 RETURN
+
+2500 REM ---------- Forward through scrambler subroutine ----------
+2510 V$ = MID$(CD$, SV, 1)  
+2520 SV = (ASC(V$) - 64) - OD + 25
+2530 GOSUB 2350 
+2540 V$ = CHR$(SV+64)
+2550 RETURN
+
+2600 REM ---------- Back  through scrambler subroutine ----------
+2610 V$ = MID$(CD$, SV + 27, 1)  
+2620 SV = (ASC(V$) - 64) - OD + 25
+2630 GOSUB 2350 
+2640 V$ = CHR$(SV+64)
+2650 RETURN
+
+2700 REM ---------- Move drums subroutine ----------
+2710 FOR I = 0 TO 11
+2720 IF LEN(SO$(I)) = 0 THEN GOTO 2760
+2730 CS$ = SO$(I)
+2740 GOSUB 3000
+2750 SO$(I) = CS$
+2760 NEXT I
+2770 RETURN
+
+2800 REM ---------- Set scrambler offset subroutine ----------
+2810 L$ = LEFT$(CS$, 1)
+2820 L = ASC(L$)
+2830 L = L + (26 - (ASC(LEFT$(ID$, 1)) - 64))
+2840 IF L < 65 THEN L = L + 26 
+2845 IF L > 90 THEN L = L - 26 
+2850 L$ = CHR$(L) 
+2860 CS$ = L$ + RIGHT$(CS$, 2)
+
+2870 L$ = MID$(CS$, 2, 1)
+2880 L = ASC(L$)
+2890 L = L + (26 - (ASC(MID$(ID$, 2, 1)) - 64))
+2900 IF L < 65 THEN L = L + 26
+2905 IF L > 90 THEN L = L - 26
+2910 L$ = CHR$(L)
+2920 CS$ = LEFT$(CS$, 1) + L$ + RIGHT$(CS$, 1)
+
+2930 L$ = RIGHT$(CS$, 1)
+2940 L = ASC(L$)
+2950 L = L + (26 - (ASC(RIGHT$(ID$, 1)) - 64))
+2960 IF L < 65 THEN L = L + 26
+2965 IF L > 90 THEN L = L - 26
+2970 L$ = CHR$(L)
+2980 CS$ = LEFT$(CS$,2) + L$
+2990 RETURN
+
+3000 REM ---------- Increment scrambler offset subroutine ----------
+3010 L$ = LEFT$(CS$, 1)
+3020 L = ASC(L$)
+3030 L = L + 1 
+3040 IF L > 90 THEN L = 65 
+3050 L$ = CHR$(L) 
+3060 CS$ = L$ + RIGHT$(CS$, 2)
+3070 IF L$ <> "A" THEN GOTO 3300
+
+3100 L$ = MID$(CS$, 2, 1)
+3110 L = ASC(L$)
+3120 L = L + 1
+3130 IF L > 90 THEN L = 65
+3140 L$ = CHR$(L)
+3150 CS$ = LEFT$(CS$, 1) + L$ + RIGHT$(CS$, 1)
+3160 IF L$ <> "A" THEN GOTO 3300
+
+3200 L$ = RIGHT$(CS$, 1)
+3210 L = ASC(L$)
+3220 L = L + 1
+3230 IF L > 90 THEN L = 65
+3240 L$ = CHR$(L)
+3250 CS$ = LEFT$(CS$,2) + L$
+3300 RETURN
+
+3500 REM ---------- Decrement indicator drums subroutine ----------
+3510 L$ = LEFT$(ID$, 1)
+3520 L = ASC(L$)
+3530 L = L - 1 
+3540 IF L < 65 THEN L = 90 
+3550 L$ = CHR$(L) 
+3560 ID$ = L$ + RIGHT$(ID$, 2)
+3570 IF L$ <> "Z" THEN GOTO 3800
+
+3600 L$ = MID$(ID$, 2, 1)
+3610 L = ASC(L$)
+3620 L = L - 1
+3630 IF L < 65 THEN L = 90
+3640 L$ = CHR$(L)
+3650 ID$ = LEFT$(ID$, 1) + L$ + RIGHT$(ID$, 1)
+3660 IF L$ <> "Z" THEN GOTO 3800
+
+3700 L$ = RIGHT$(ID$, 1)
+3710 L = ASC(L$)
+3720 L = L - 1
+3730 IF L < 65 THEN L = 90
+3740 L$ = CHR$(L)
+3750 ID$ = LEFT$(ID$,2) + L$
+3800 RETURN
+
+4000 REM ---------- Diagonal board subroutine ----------
+4010 FOR I1 = 0 TO 25
+4020 IF DI(I1) = 0 THEN GOTO 4050
+4030 IF LA(I1, ASC(DL$) - 65) <> 1 THEN LA(I1, ASC(DL$) - 65) = -1
+4040 IF LA(ASC(DL$) - 65, I1) <> 1 THEN LA(ASC(DL$) - 65, I1) = -1
+4050 NEXT I1 
+4060 RETURN
+
+4300 REM ---------- Print letter array ----------
+4301 PRINT
+4302 FOR I1 = 0 TO 25
+4303 PRINT "  ";
+4304 PRINT CHR$(I1+65);
+4305 NEXT I1 : PRINT
+4310 FOR I1 = 0 TO 25
+4320 FOR J1 = 0 TO 25
+4325 IF J1 = 0 THEN GOTO 4400
+4330 PRINT LA(I1,J1);
+4340 NEXT J1
+4360 PRINT
+4370 NEXT I1
+4380 PRINT
+4390 RETURN
+4400 IF I1 = IL THEN PRINT "?"; : GOTO 4330
+4410 PRINT CHR$(I1+65); : GOTO 4330
+
+4500 REM ---------- Print test register ----------
+4510 PRINT "TEST REGISTER: " 
+4520 FOR I1 = 0 TO 25
+4530 IF I1 = 0 THEN PRINT " ";
+4540 PRINT CHR$(I1+65); : PRINT "  ";
+4550 NEXT I1 : PRINT
+4560 FOR I2 = 0 TO 25
+4570 PRINT LA(IL,I2);
+4580 NEXT I2
+4590 PRINT
+4600 RETURN
+
+4700 REM ---------- Clear letter array ----------
+4710 FOR I1 = 0 TO 25
+4720 FOR J1 = 0 TO 25
+4730 LA(I1,J1) = 0
+4740 NEXT J1
+4760 NEXT I1
+4770 RETURN
+
+5000 REM ---------- Solve subroutine ----------
+5002 PRINT CHR$(7)
+5005 GOSUB 4700 : REM Clear letter array
+5010 LA(IL,IV) = -1 : REM Initial input voltage
+5020 LA(IV,IL) = -1 : REM Initial input voltage diagonal
+
+5030 GOSUB 2700 : REM Increment drums
+5040 GOSUB 3500 : REM Decrement indicator 
+5050 PRINT :PRINT : PRINT "INDICATOR: "; : PRINT ID$
+5052 PRINT "SCRAMBLERS: "
+5055 IF ID$ = "ZZZ" THEN GOTO 5500
+5057 GOSUB 1800 : REM Print scramblers
+
+5060 FOR I = 1 TO ML : REM For each menu letter
+5065 IF P = 1 THEN PRINT
+5070 IF P = 1 THEN PRINT "CHECKING LETTER: "; : PRINT ML$(I-1)
+5075 REM GOSUB 4500 : REM Print test register
+5080 IF P = 1 THEN GOSUB 4300 : REM Print letter array
+5085 IF ML$(I-1) = CHR$(IL+65) THEN GOTO 5200
+5090 FOR J = 0 TO 25 : REM Check each voltage on this letter
+5100 IF LA(ASC(ML$(I-1))-65, J) = -1 THEN GOSUB 6000
+5110 NEXT J
+5120 NEXT I
+5130 GOTO 5060
+
+5200 REM Check test register
+5210 FOR I2 = 0 TO 25
+5220 IF LA(IL,I2) = -1 THEN GOTO 5090
+5230 NEXT I2
+5240 REM If we get to here check for a stop
+5250 IS = 0
+5260 FOR I2 = 0 TO 25
+5270 IF LA(IL,I2) = 1 THEN IS = IS + 1
+5280 NEXT I2
+5290 IF IS < 26 GOTO 5400 : REM A stop!
+5300 GOTO 5005 : REM All voltages traced
+
+5400 PRINT "STOP" : PRINT CHR$(7)
+5410 PRINT "INDICATOR: "; : PRINT ID$
+5420 GOSUB 4500 : REM Print test register
+5430 STOP
+5440 GOTO 5005
+
+5500 PRINT "BOMB RUN COMPLETE" 
+5510 PRINT CHR$(7) : PRINT CHR$(7)
+5520 PRINT CHR$(7) : PRINT CHR$(7)
+5530 END
+
+6000 REM ---------- Trace voltage ----------
+6005 LA(ASC(ML$(I-1))-65, J) = 1
+6010 FOR K = 0 TO 4
+6020 REM For each connected scrambler   
+6030 IF MC(I-1,K) = 0 THEN RETURN
+6040 REM Setup the scrambler
+6050 CS$ = SO$(MC(I-1,K)-1)
+6060 SV = J + 1 : REM Input letter
+6070 GOSUB 2000 : REM Through scrambler
+6080 REM Set a 1 on the output letter for the scrambler's connected menu letter
+6090 SL = ASC(SL$(MC(I-1,K)-1)) - 65 
+6100 IF LA(SL,SV-1) = -1 THEN GOTO 6110
+6105 IF LA(SL,SV-1) = 1 GOTO 6110
+6107 IF LA(SL,SV-1) = 0 THEN LA(SL,SV-1) = -1 : GOTO 6200
+6110 REM Feed into diagonal board
+6120 FOR J1 = 0 TO 25 : DI(J1) = LA(SL,J1) : NEXT J1
+6130 DL$ = SL$(MC(I-1,K)-1)
+6140 GOSUB 4000 : REM Diagonal board
+6150 NEXT K
+6160 RETURN
+
+6200 IF P = 1 THEN PRINT MC(I-1,K); : PRINT" ";
+6210 IF P = 1 THEN PRINT CS$; : PRINT":";
+6220 IF P = 1 THEN PRINT CHR$(J+65); : PRINT"-"; 
+6230 IF P = 1 THEN PRINT CHR$(SV+64); : PRINT" ";
+6240 IF P = 1 THEN PRINT CHR$(SL+65); : PRINT 
+6250 GOTO 6110
+
+10000 REM ---------- Setup subroutine ----------
+
+10010 FOR I = 0 TO 2 : REM 3 drums
+10020 READ S$
+10030 GOSUB 15000 : REM Drum setup subroutine 
+10040 NEXT I
+
+10050 READ S$ : REM Reflector
+10060 GOSUB 16000
+
+10070 FOR I = 0 TO 11 : REM 12 scrambler offsets
+10080 READ S$
+10090 SO$(I)= S$
+10100 NEXT I
+
+10200 FOR I = 0 TO 11 : REM 12 scrambler output letters
+10210 READ S$
+10220 SL$(I)= S$
+10230 NEXT I
+
+10240 READ ML : REM Number of menu letters    
+
+10250 FOR I = 1 TO ML : REM Menu letters
+10260 READ S$
+10270 ML$(I-1)= S$
+10280 NEXT I
+
+10290 IL = ASC(ML$(0)) - 65 : REM Input letter value
+
+10300 FOR I = 1 TO ML : REM Menu letter connections
+10310 FOR J = 0 TO 4 : REM Connections for letter
+10320 READ S
+10330 MC(I-1, J) = S
+10340 NEXT J
+10350 NEXT I
+
+10360 READ S$
+10370 IV = (ASC(S$) - 65) : REM Input letter value
+
+10380 READ S$
+10390 ID$ = S$ : REM Indicator offset
+
+10400 READ S
+10410 P = S : REM Debug printing
+
+10420 RETURN
+
+15000 REM ---------- Drum setup subroutine ----------
+15010 IF S$ = "I" THEN CD$ = R1$ : D = 1
+15020 IF S$ = "II" THEN CD$ = R2$ : D = 1
+15030 IF S$ = "III" THEN CD$ = R3$ : D = 1
+15040 IF S$ = "IV" THEN CD$ = R4$ : D = 2
+15050 IF S$ = "V" THEN CD$ = R5$ : D = 3
+15060 IF I = 0 THEN D1$ = CD$ : DO(0) = D
+15070 IF I = 1 THEN D2$ = CD$ : DO(1) = D
+15080 IF I = 2 THEN D3$ = CD$ : DO(2) = D
+15090 RETURN
+
+16000 REM ---------- Reflector setup subroutine ----------
+16010 IF S$ = "B" THEN RF$ = UB$
+16020 IF S$ = "C" THEN RF$ = UC$
+16030 RETURN
+
+20000 REM ---------- DATA SECTION ----------
+
+20010 REM Set up drums
+20020 DATA "II", "V", "III"
+20030 REM Set up reflector
+20040 DATA "B"
+
+20100 REM Set up data values
+20110 REM 12 scrambler settings
+20120 DATA "ZZK", "ZZE", "ZZF", "ZZN", "ZZM", "ZZG"
+20130 DATA "ZZP", "ZZB", "ZZJ", "ZZI", "ZZL", "ZZO"
+
+20200 REM 12 scrambler output letters
+20210 DATA "E", "G", "R", "A", "S", "V"
+20220 DATA "E", "N", "Z", "R", "G", "L"
+
+20300 REM Number of menu letters
+20310 DATA 11 
+20320 REM Menu letters (input = first letter)
+20330 DATA "G", "R", "A", "S", "V", "N"
+20335 DATA "H", "Z", "L", "U", "E"
+
+20400 REM Menu connection lists 
+20410 REM 1 data line for each menu letter, 5 possible connections
+20411 DATA 3, 12, 0, 0, 0 : REM 'G'
+20412 DATA 4, 11, 0, 0, 0 : REM 'R'
+20413 DATA 5, 0, 0, 0, 0 : REM 'A'
+20414 DATA 6, 0, 0, 0, 0 : REM 'S'
+20415 DATA 7, 0, 0, 0, 0 : REM 'V'
+20416 DATA 0, 0, 0, 0, 0 : REM 'N'
+20417 DATA 9, 0, 0, 0, 0 : REM 'H'
+20418 DATA 10, 0, 0, 0, 0 : REM 'Z'
+20419 DATA 0, 0, 0, 0, 0 : REM 'L'
+20420 DATA 1, 0, 0, 0, 0 : REM 'U'
+20421 DATA 2, 8, 0, 0, 0 : REM 'E'
+
+20500 REM Test input voltage
+20510 DATA "A"
+
+20520 REM Indicator offset
+20530 DATA "UQZ"
+
+20540 REM Print debug information
+20550 DATA 1
+
+
+
+

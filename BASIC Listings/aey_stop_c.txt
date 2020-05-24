@@ -1,0 +1,3357 @@
+Top drum: 2
+Middle drum: 5
+Bottom drum: 3
+Reflector: B
+Scramblers: ZZK ZZE ZZF ZZN ZZM ZZG ZZP ZZB ZZJ ZZI ZZL ZZO
+Scrambler output: E G R A S V E N Z R G L
+Number of menu letters: 11
+Menu letters: G R A S V N H Z L U E
+Test menu letter: G
+Test stecker letter: A
+Menu connections:
+G:  3  12
+R:  4  11
+A:  5
+S:  6
+V:  7
+N:
+H:  9
+Z: 10
+L:
+U:  1
+E:  2   8
+
+
+Indicator: YZZ
+Indicator: XZZ
+Indicator: WZZ
+Indicator: VZZ
+Indicator: UZZ
+Indicator: TZZ
+Indicator: SZZ
+Indicator: RZZ
+Indicator: QZZ
+Indicator: PZZ
+Indicator: OZZ
+Indicator: NZZ
+Indicator: MZZ
+Indicator: LZZ
+Indicator: KZZ
+Indicator: JZZ
+Indicator: IZZ
+Indicator: HZZ
+Indicator: GZZ
+Indicator: FZZ
+Indicator: EZZ
+Indicator: DZZ
+Indicator: CZZ
+Indicator: BZZ
+Indicator: AZZ
+Indicator: ZYZ
+Indicator: YYZ
+Indicator: XYZ
+Indicator: WYZ
+Indicator: VYZ
+Indicator: UYZ
+Indicator: TYZ
+Indicator: SYZ
+Indicator: RYZ
+Indicator: QYZ
+Indicator: PYZ
+Indicator: OYZ
+Indicator: NYZ
+Indicator: MYZ
+Indicator: LYZ
+Indicator: KYZ
+Indicator: JYZ
+Indicator: IYZ
+Indicator: HYZ
+Indicator: GYZ
+Indicator: FYZ
+Indicator: EYZ
+Indicator: DYZ
+Indicator: CYZ
+Indicator: BYZ
+Indicator: AYZ
+Indicator: ZXZ
+Indicator: YXZ
+Indicator: XXZ
+Indicator: WXZ
+Indicator: VXZ
+Indicator: UXZ
+Indicator: TXZ
+Indicator: SXZ
+Indicator: RXZ
+Indicator: QXZ
+Indicator: PXZ
+Indicator: OXZ
+Indicator: NXZ
+Indicator: MXZ
+Indicator: LXZ
+Indicator: KXZ
+Indicator: JXZ
+Indicator: IXZ
+Indicator: HXZ
+Indicator: GXZ
+Indicator: FXZ
+Indicator: EXZ
+Indicator: DXZ
+Indicator: CXZ
+Indicator: BXZ
+Indicator: AXZ
+Indicator: ZWZ
+Indicator: YWZ
+Indicator: XWZ
+Indicator: WWZ
+Indicator: VWZ
+Indicator: UWZ
+Indicator: TWZ
+Indicator: SWZ
+Indicator: RWZ
+Indicator: QWZ
+Indicator: PWZ
+Indicator: OWZ
+Indicator: NWZ
+Indicator: MWZ
+Indicator: LWZ
+Indicator: KWZ
+Indicator: JWZ
+Indicator: IWZ
+Indicator: HWZ
+Indicator: GWZ
+Indicator: FWZ
+Indicator: EWZ
+Indicator: DWZ
+Indicator: CWZ
+Indicator: BWZ
+Indicator: AWZ
+Indicator: ZVZ
+Indicator: YVZ
+Indicator: XVZ
+Indicator: WVZ
+Indicator: VVZ
+Indicator: UVZ
+Indicator: TVZ
+Indicator: SVZ
+Indicator: RVZ
+Indicator: QVZ
+Indicator: PVZ
+Indicator: OVZ
+Indicator: NVZ
+Indicator: MVZ
+Indicator: LVZ
+Indicator: KVZ
+Indicator: JVZ
+Indicator: IVZ
+Indicator: HVZ
+Indicator: GVZ
+Indicator: FVZ
+Indicator: EVZ
+Indicator: DVZ
+Indicator: CVZ
+Indicator: BVZ
+Indicator: AVZ
+Indicator: ZUZ
+Indicator: YUZ
+Indicator: XUZ
+Indicator: WUZ
+Indicator: VUZ
+Indicator: UUZ
+Indicator: TUZ
+Indicator: SUZ
+Indicator: RUZ
+Indicator: QUZ
+Indicator: PUZ
+Indicator: OUZ
+Indicator: NUZ
+Indicator: MUZ
+Indicator: LUZ
+Indicator: KUZ
+Indicator: JUZ
+Indicator: IUZ
+Indicator: HUZ
+Indicator: GUZ
+Indicator: FUZ
+Indicator: EUZ
+Indicator: DUZ
+Indicator: CUZ
+Indicator: BUZ
+Indicator: AUZ
+Indicator: ZTZ
+Indicator: YTZ
+Indicator: XTZ
+Indicator: WTZ
+Indicator: VTZ
+Indicator: UTZ
+Indicator: TTZ
+Indicator: STZ
+Indicator: RTZ
+Indicator: QTZ
+Indicator: PTZ
+Indicator: OTZ
+Indicator: NTZ
+Indicator: MTZ
+Indicator: LTZ
+Indicator: KTZ
+Indicator: JTZ
+Indicator: ITZ
+Indicator: HTZ
+Indicator: GTZ
+Indicator: FTZ
+Indicator: ETZ
+Indicator: DTZ
+Indicator: CTZ
+Indicator: BTZ
+Indicator: ATZ
+Indicator: ZSZ
+Indicator: YSZ
+Indicator: XSZ
+Indicator: WSZ
+Indicator: VSZ
+Indicator: USZ
+Indicator: TSZ
+Indicator: SSZ
+Indicator: RSZ
+Indicator: QSZ
+Indicator: PSZ
+Indicator: OSZ
+Indicator: NSZ
+Indicator: MSZ
+Indicator: LSZ
+Indicator: KSZ
+Indicator: JSZ
+Indicator: ISZ
+Indicator: HSZ
+Indicator: GSZ
+Indicator: FSZ
+Indicator: ESZ
+Indicator: DSZ
+Indicator: CSZ
+Indicator: BSZ
+Indicator: ASZ
+Indicator: ZRZ
+Indicator: YRZ
+Indicator: XRZ
+Indicator: WRZ
+Indicator: VRZ
+Indicator: URZ
+Indicator: TRZ
+Indicator: SRZ
+Indicator: RRZ
+Indicator: QRZ
+Indicator: PRZ
+Indicator: ORZ
+Indicator: NRZ
+Indicator: MRZ
+Indicator: LRZ
+Indicator: KRZ
+Indicator: JRZ
+Indicator: IRZ
+Indicator: HRZ
+Indicator: GRZ
+Indicator: FRZ
+Indicator: ERZ
+Indicator: DRZ
+Indicator: CRZ
+Indicator: BRZ
+Indicator: ARZ
+Indicator: ZQZ
+Indicator: YQZ
+Indicator: XQZ
+Indicator: WQZ
+Indicator: VQZ
+Indicator: UQZ
+Indicator: TQZ
+Indicator: SQZ
+Indicator: RQZ
+Indicator: QQZ
+Indicator: PQZ
+Indicator: OQZ
+Indicator: NQZ
+Indicator: MQZ
+Indicator: LQZ
+Indicator: KQZ
+Indicator: JQZ
+Indicator: IQZ
+Indicator: HQZ
+Indicator: GQZ
+Indicator: FQZ
+Indicator: EQZ
+Indicator: DQZ
+Indicator: CQZ
+Indicator: BQZ
+Indicator: AQZ
+Indicator: ZPZ
+Indicator: YPZ
+Indicator: XPZ
+Indicator: WPZ
+Indicator: VPZ
+Indicator: UPZ
+Indicator: TPZ
+Indicator: SPZ
+Indicator: RPZ
+Indicator: QPZ
+Indicator: PPZ
+Indicator: OPZ
+Indicator: NPZ
+Indicator: MPZ
+Indicator: LPZ
+Indicator: KPZ
+Indicator: JPZ
+Indicator: IPZ
+Indicator: HPZ
+Indicator: GPZ
+Indicator: FPZ
+Indicator: EPZ
+Indicator: DPZ
+Indicator: CPZ
+Indicator: BPZ
+Indicator: APZ
+Indicator: ZOZ
+Indicator: YOZ
+Indicator: XOZ
+Indicator: WOZ
+Indicator: VOZ
+Indicator: UOZ
+Indicator: TOZ
+Indicator: SOZ
+Indicator: ROZ
+Indicator: QOZ
+Indicator: POZ
+Indicator: OOZ
+Indicator: NOZ
+Indicator: MOZ
+Indicator: LOZ
+Indicator: KOZ
+Indicator: JOZ
+Indicator: IOZ
+Indicator: HOZ
+Indicator: GOZ
+Indicator: FOZ
+Indicator: EOZ
+Indicator: DOZ
+Indicator: COZ
+Indicator: BOZ
+Indicator: AOZ
+Indicator: ZNZ
+Indicator: YNZ
+Indicator: XNZ
+Indicator: WNZ
+Indicator: VNZ
+Indicator: UNZ
+Indicator: TNZ
+Indicator: SNZ
+Indicator: RNZ
+Indicator: QNZ
+Indicator: PNZ
+Indicator: ONZ
+Indicator: NNZ
+Indicator: MNZ
+Indicator: LNZ
+Indicator: KNZ
+Indicator: JNZ
+Indicator: INZ
+Indicator: HNZ
+Indicator: GNZ
+Indicator: FNZ
+Indicator: ENZ
+Indicator: DNZ
+Indicator: CNZ
+Indicator: BNZ
+Indicator: ANZ
+Indicator: ZMZ
+Indicator: YMZ
+Indicator: XMZ
+Indicator: WMZ
+Indicator: VMZ
+Indicator: UMZ
+Indicator: TMZ
+Indicator: SMZ
+Indicator: RMZ
+Indicator: QMZ
+Indicator: PMZ
+Indicator: OMZ
+Indicator: NMZ
+Indicator: MMZ
+Indicator: LMZ
+Indicator: KMZ
+Indicator: JMZ
+Indicator: IMZ
+Indicator: HMZ
+Indicator: GMZ
+Indicator: FMZ
+Indicator: EMZ
+Indicator: DMZ
+Indicator: CMZ
+Indicator: BMZ
+Indicator: AMZ
+Indicator: ZLZ
+Indicator: YLZ
+Indicator: XLZ
+Indicator: WLZ
+Indicator: VLZ
+Indicator: ULZ
+Indicator: TLZ
+Indicator: SLZ
+Indicator: RLZ
+Indicator: QLZ
+Indicator: PLZ
+Indicator: OLZ
+Indicator: NLZ
+Indicator: MLZ
+Indicator: LLZ
+Indicator: KLZ
+Indicator: JLZ
+Indicator: ILZ
+Indicator: HLZ
+Indicator: GLZ
+Indicator: FLZ
+Indicator: ELZ
+Indicator: DLZ
+Indicator: CLZ
+Indicator: BLZ
+Indicator: ALZ
+Indicator: ZKZ
+Indicator: YKZ
+Indicator: XKZ
+Indicator: WKZ
+Indicator: VKZ
+Indicator: UKZ
+Indicator: TKZ
+Indicator: SKZ
+Indicator: RKZ
+Indicator: QKZ
+Indicator: PKZ
+Indicator: OKZ
+Indicator: NKZ
+Indicator: MKZ
+Indicator: LKZ
+Indicator: KKZ
+Indicator: JKZ
+Indicator: IKZ
+Indicator: HKZ
+Indicator: GKZ
+Indicator: FKZ
+Indicator: EKZ
+Indicator: DKZ
+Indicator: CKZ
+Indicator: BKZ
+Indicator: AKZ
+Indicator: ZJZ
+Indicator: YJZ
+Indicator: XJZ
+Indicator: WJZ
+Indicator: VJZ
+Indicator: UJZ
+Indicator: TJZ
+Indicator: SJZ
+Indicator: RJZ
+Indicator: QJZ
+Indicator: PJZ
+Indicator: OJZ
+Indicator: NJZ
+Indicator: MJZ
+Indicator: LJZ
+Indicator: KJZ
+Indicator: JJZ
+Indicator: IJZ
+Indicator: HJZ
+Indicator: GJZ
+Indicator: FJZ
+Indicator: EJZ
+Indicator: DJZ
+Indicator: CJZ
+Indicator: BJZ
+Indicator: AJZ
+Indicator: ZIZ
+Indicator: YIZ
+Indicator: XIZ
+Indicator: WIZ
+Indicator: VIZ
+Indicator: UIZ
+Indicator: TIZ
+Indicator: SIZ
+Indicator: RIZ
+Indicator: QIZ
+Indicator: PIZ
+Indicator: OIZ
+Indicator: NIZ
+Indicator: MIZ
+Indicator: LIZ
+Indicator: KIZ
+Indicator: JIZ
+Indicator: IIZ
+Indicator: HIZ
+Indicator: GIZ
+Indicator: FIZ
+Indicator: EIZ
+Indicator: DIZ
+Indicator: CIZ
+Indicator: BIZ
+Indicator: AIZ
+Indicator: ZHZ
+Indicator: YHZ
+Indicator: XHZ
+Indicator: WHZ
+Indicator: VHZ
+Indicator: UHZ
+Indicator: THZ
+Indicator: SHZ
+Indicator: RHZ
+Indicator: QHZ
+Indicator: PHZ
+Indicator: OHZ
+Indicator: NHZ
+Indicator: MHZ
+Indicator: LHZ
+Indicator: KHZ
+Indicator: JHZ
+Indicator: IHZ
+Indicator: HHZ
+Indicator: GHZ
+Indicator: FHZ
+Indicator: EHZ
+Indicator: DHZ
+Indicator: CHZ
+Indicator: BHZ
+Indicator: AHZ
+Indicator: ZGZ
+Indicator: YGZ
+Indicator: XGZ
+Indicator: WGZ
+Indicator: VGZ
+Indicator: UGZ
+Indicator: TGZ
+Indicator: SGZ
+Indicator: RGZ
+Indicator: QGZ
+Indicator: PGZ
+Indicator: OGZ
+Indicator: NGZ
+Indicator: MGZ
+Indicator: LGZ
+Indicator: KGZ
+Indicator: JGZ
+Indicator: IGZ
+Indicator: HGZ
+Indicator: GGZ
+Indicator: FGZ
+Indicator: EGZ
+Indicator: DGZ
+Indicator: CGZ
+Indicator: BGZ
+Indicator: AGZ
+Indicator: ZFZ
+Indicator: YFZ
+Indicator: XFZ
+Indicator: WFZ
+Indicator: VFZ
+Indicator: UFZ
+Indicator: TFZ
+Indicator: SFZ
+Indicator: RFZ
+Indicator: QFZ
+Indicator: PFZ
+Indicator: OFZ
+Indicator: NFZ
+Indicator: MFZ
+Indicator: LFZ
+Indicator: KFZ
+Indicator: JFZ
+Indicator: IFZ
+Indicator: HFZ
+Indicator: GFZ
+Indicator: FFZ
+Indicator: EFZ
+Indicator: DFZ
+Indicator: CFZ
+Indicator: BFZ
+Indicator: AFZ
+Indicator: ZEZ
+Indicator: YEZ
+Indicator: XEZ
+Indicator: WEZ
+Indicator: VEZ
+Indicator: UEZ
+Indicator: TEZ
+Indicator: SEZ
+Indicator: REZ
+Indicator: QEZ
+Indicator: PEZ
+Indicator: OEZ
+Indicator: NEZ
+Indicator: MEZ
+Indicator: LEZ
+Indicator: KEZ
+Indicator: JEZ
+Indicator: IEZ
+Indicator: HEZ
+Indicator: GEZ
+Indicator: FEZ
+Indicator: EEZ
+Indicator: DEZ
+Indicator: CEZ
+Indicator: BEZ
+Indicator: AEZ
+Indicator: ZDZ
+Indicator: YDZ
+Indicator: XDZ
+Indicator: WDZ
+Indicator: VDZ
+Indicator: UDZ
+Indicator: TDZ
+Indicator: SDZ
+Indicator: RDZ
+Indicator: QDZ
+Indicator: PDZ
+Indicator: ODZ
+Indicator: NDZ
+Indicator: MDZ
+Indicator: LDZ
+Indicator: KDZ
+Indicator: JDZ
+Indicator: IDZ
+Indicator: HDZ
+Indicator: GDZ
+Indicator: FDZ
+Indicator: EDZ
+Indicator: DDZ
+Indicator: CDZ
+Indicator: BDZ
+Indicator: ADZ
+Indicator: ZCZ
+Indicator: YCZ
+Indicator: XCZ
+Indicator: WCZ
+Indicator: VCZ
+Indicator: UCZ
+Indicator: TCZ
+Indicator: SCZ
+Indicator: RCZ
+Indicator: QCZ
+Indicator: PCZ
+Indicator: OCZ
+Indicator: NCZ
+Indicator: MCZ
+Indicator: LCZ
+Indicator: KCZ
+Indicator: JCZ
+Indicator: ICZ
+Indicator: HCZ
+Indicator: GCZ
+Indicator: FCZ
+Indicator: ECZ
+Indicator: DCZ
+Indicator: CCZ
+Indicator: BCZ
+Indicator: ACZ
+Indicator: ZBZ
+Indicator: YBZ
+Indicator: XBZ
+Indicator: WBZ
+Indicator: VBZ
+Indicator: UBZ
+Indicator: TBZ
+Indicator: SBZ
+Indicator: RBZ
+Indicator: QBZ
+Indicator: PBZ
+Indicator: OBZ
+Indicator: NBZ
+Indicator: MBZ
+Indicator: LBZ
+Indicator: KBZ
+Indicator: JBZ
+Indicator: IBZ
+Indicator: HBZ
+Indicator: GBZ
+Indicator: FBZ
+Indicator: EBZ
+Indicator: DBZ
+Indicator: CBZ
+Indicator: BBZ
+Indicator: ABZ
+Indicator: ZAZ
+Indicator: YAZ
+Indicator: XAZ
+Indicator: WAZ
+Indicator: VAZ
+Indicator: UAZ
+Indicator: TAZ
+Indicator: SAZ
+Indicator: RAZ
+Indicator: QAZ
+Indicator: PAZ
+Indicator: OAZ
+Indicator: NAZ
+Indicator: MAZ
+Indicator: LAZ
+Indicator: KAZ
+Indicator: JAZ
+Indicator: IAZ
+Indicator: HAZ
+Indicator: GAZ
+Indicator: FAZ
+Indicator: EAZ
+Indicator: DAZ
+Indicator: CAZ
+Indicator: BAZ
+Indicator: AAZ
+Indicator: ZZY
+Indicator: YZY
+Indicator: XZY
+Indicator: WZY
+Indicator: VZY
+Indicator: UZY
+Indicator: TZY
+Indicator: SZY
+Indicator: RZY
+Indicator: QZY
+Indicator: PZY
+Indicator: OZY
+Indicator: NZY
+Indicator: MZY
+Indicator: LZY
+Indicator: KZY
+Indicator: JZY
+Indicator: IZY
+Indicator: HZY
+Indicator: GZY
+Indicator: FZY
+Indicator: EZY
+Indicator: DZY
+Indicator: CZY
+Indicator: BZY
+Indicator: AZY
+Indicator: ZYY
+Indicator: YYY
+Indicator: XYY
+Indicator: WYY
+Indicator: VYY
+Indicator: UYY
+Indicator: TYY
+Indicator: SYY
+Indicator: RYY
+Indicator: QYY
+Indicator: PYY
+Indicator: OYY
+Indicator: NYY
+Indicator: MYY
+Indicator: LYY
+Indicator: KYY
+Indicator: JYY
+Indicator: IYY
+Indicator: HYY
+Indicator: GYY
+Indicator: FYY
+Indicator: EYY
+Indicator: DYY
+Indicator: CYY
+Indicator: BYY
+Indicator: AYY
+Indicator: ZXY
+Indicator: YXY
+Indicator: XXY
+Indicator: WXY
+Indicator: VXY
+Indicator: UXY
+Indicator: TXY
+Indicator: SXY
+Indicator: RXY
+Indicator: QXY
+Indicator: PXY
+Indicator: OXY
+Indicator: NXY
+Indicator: MXY
+Indicator: LXY
+Indicator: KXY
+Indicator: JXY
+Indicator: IXY
+Indicator: HXY
+Indicator: GXY
+Indicator: FXY
+Indicator: EXY
+Indicator: DXY
+Indicator: CXY
+Indicator: BXY
+Indicator: AXY
+Indicator: ZWY
+Indicator: YWY
+Indicator: XWY
+Indicator: WWY
+Indicator: VWY
+Indicator: UWY
+Indicator: TWY
+Indicator: SWY
+Indicator: RWY
+Indicator: QWY
+Indicator: PWY
+Indicator: OWY
+Indicator: NWY
+Indicator: MWY
+Indicator: LWY
+Indicator: KWY
+Indicator: JWY
+Indicator: IWY
+Indicator: HWY
+Indicator: GWY
+Indicator: FWY
+Indicator: EWY
+Indicator: DWY
+Indicator: CWY
+Indicator: BWY
+Indicator: AWY
+Indicator: ZVY
+Indicator: YVY
+Indicator: XVY
+Indicator: WVY
+Indicator: VVY
+Indicator: UVY
+Indicator: TVY
+Indicator: SVY
+Indicator: RVY
+Indicator: QVY
+Indicator: PVY
+Indicator: OVY
+Indicator: NVY
+Indicator: MVY
+Indicator: LVY
+Indicator: KVY
+Indicator: JVY
+Indicator: IVY
+Indicator: HVY
+Indicator: GVY
+Indicator: FVY
+Indicator: EVY
+Indicator: DVY
+Indicator: CVY
+Indicator: BVY
+Indicator: AVY
+Indicator: ZUY
+Indicator: YUY
+Indicator: XUY
+Indicator: WUY
+Indicator: VUY
+Indicator: UUY
+Indicator: TUY
+Indicator: SUY
+Indicator: RUY
+Indicator: QUY
+Indicator: PUY
+Indicator: OUY
+Indicator: NUY
+Indicator: MUY
+Indicator: LUY
+Indicator: KUY
+Indicator: JUY
+Indicator: IUY
+Indicator: HUY
+Indicator: GUY
+Indicator: FUY
+Indicator: EUY
+Indicator: DUY
+Indicator: CUY
+Indicator: BUY
+Indicator: AUY
+Indicator: ZTY
+Indicator: YTY
+Indicator: XTY
+Indicator: WTY
+Indicator: VTY
+Indicator: UTY
+Indicator: TTY
+Indicator: STY
+Indicator: RTY
+Indicator: QTY
+Indicator: PTY
+Indicator: OTY
+Indicator: NTY
+Indicator: MTY
+Indicator: LTY
+Indicator: KTY
+Indicator: JTY
+Indicator: ITY
+Indicator: HTY
+Indicator: GTY
+Indicator: FTY
+Indicator: ETY
+Indicator: DTY
+Indicator: CTY
+Indicator: BTY
+Indicator: ATY
+Indicator: ZSY
+Indicator: YSY
+Indicator: XSY
+Indicator: WSY
+Indicator: VSY
+Indicator: USY
+Indicator: TSY
+Indicator: SSY
+Indicator: RSY
+Indicator: QSY
+Indicator: PSY
+Indicator: OSY
+Indicator: NSY
+Indicator: MSY
+Indicator: LSY
+Indicator: KSY
+Indicator: JSY
+Indicator: ISY
+Indicator: HSY
+Indicator: GSY
+Indicator: FSY
+Indicator: ESY
+Indicator: DSY
+Indicator: CSY
+Indicator: BSY
+Indicator: ASY
+Indicator: ZRY
+Indicator: YRY
+Indicator: XRY
+Indicator: WRY
+Indicator: VRY
+Indicator: URY
+Indicator: TRY
+Indicator: SRY
+Indicator: RRY
+Indicator: QRY
+Indicator: PRY
+Indicator: ORY
+Indicator: NRY
+Indicator: MRY
+Indicator: LRY
+Indicator: KRY
+Indicator: JRY
+Indicator: IRY
+Indicator: HRY
+Indicator: GRY
+Indicator: FRY
+Indicator: ERY
+Indicator: DRY
+Indicator: CRY
+Indicator: BRY
+Indicator: ARY
+Indicator: ZQY
+Indicator: YQY
+Indicator: XQY
+Indicator: WQY
+Indicator: VQY
+Indicator: UQY
+Indicator: TQY
+Indicator: SQY
+Indicator: RQY
+Indicator: QQY
+Indicator: PQY
+Indicator: OQY
+Indicator: NQY
+Indicator: MQY
+Indicator: LQY
+Indicator: KQY
+Indicator: JQY
+Indicator: IQY
+Indicator: HQY
+Indicator: GQY
+Indicator: FQY
+Indicator: EQY
+Indicator: DQY
+Indicator: CQY
+Indicator: BQY
+Indicator: AQY
+Indicator: ZPY
+Indicator: YPY
+Indicator: XPY
+Indicator: WPY
+Indicator: VPY
+Indicator: UPY
+Indicator: TPY
+Indicator: SPY
+Indicator: RPY
+Indicator: QPY
+Indicator: PPY
+Indicator: OPY
+Indicator: NPY
+Indicator: MPY
+Indicator: LPY
+Indicator: KPY
+Indicator: JPY
+Indicator: IPY
+Indicator: HPY
+Indicator: GPY
+Indicator: FPY
+Indicator: EPY
+Indicator: DPY
+Indicator: CPY
+Indicator: BPY
+Indicator: APY
+Indicator: ZOY
+Indicator: YOY
+Indicator: XOY
+Indicator: WOY
+Indicator: VOY
+Indicator: UOY
+Indicator: TOY
+Indicator: SOY
+Indicator: ROY
+Indicator: QOY
+Indicator: POY
+Indicator: OOY
+Indicator: NOY
+Indicator: MOY
+Indicator: LOY
+Indicator: KOY
+Indicator: JOY
+Indicator: IOY
+Indicator: HOY
+Indicator: GOY
+Indicator: FOY
+Indicator: EOY
+Indicator: DOY
+Indicator: COY
+Indicator: BOY
+Indicator: AOY
+Indicator: ZNY
+Indicator: YNY
+Indicator: XNY
+Indicator: WNY
+Indicator: VNY
+Indicator: UNY
+Indicator: TNY
+Indicator: SNY
+Stop!
+
+Indicator: SNY
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+E  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  2
+J  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+N  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+S  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+X  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+Z  1  0  0  1  1  0  1  0  1  0  1  1  0  1  1  0  0  1  1  0  0  1  0  0  1  1
+
+
+Test register:
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+Press ENTER key to continue run.
+
+Indicator: RNY
+Indicator: QNY
+Indicator: PNY
+Indicator: ONY
+Indicator: NNY
+Indicator: MNY
+Indicator: LNY
+Indicator: KNY
+Indicator: JNY
+Indicator: INY
+Indicator: HNY
+Indicator: GNY
+Indicator: FNY
+Indicator: ENY
+Indicator: DNY
+Indicator: CNY
+Indicator: BNY
+Indicator: ANY
+Indicator: ZMY
+Indicator: YMY
+Indicator: XMY
+Indicator: WMY
+Indicator: VMY
+Indicator: UMY
+Indicator: TMY
+Indicator: SMY
+Indicator: RMY
+Indicator: QMY
+Indicator: PMY
+Indicator: OMY
+Indicator: NMY
+Indicator: MMY
+Indicator: LMY
+Indicator: KMY
+Indicator: JMY
+Indicator: IMY
+Indicator: HMY
+Indicator: GMY
+Indicator: FMY
+Indicator: EMY
+Indicator: DMY
+Indicator: CMY
+Indicator: BMY
+Indicator: AMY
+Indicator: ZLY
+Indicator: YLY
+Indicator: XLY
+Indicator: WLY
+Indicator: VLY
+Indicator: ULY
+Indicator: TLY
+Indicator: SLY
+Indicator: RLY
+Indicator: QLY
+Indicator: PLY
+Indicator: OLY
+Indicator: NLY
+Indicator: MLY
+Indicator: LLY
+Indicator: KLY
+Indicator: JLY
+Indicator: ILY
+Indicator: HLY
+Indicator: GLY
+Indicator: FLY
+Indicator: ELY
+Indicator: DLY
+Indicator: CLY
+Indicator: BLY
+Indicator: ALY
+Indicator: ZKY
+Indicator: YKY
+Indicator: XKY
+Indicator: WKY
+Indicator: VKY
+Indicator: UKY
+Indicator: TKY
+Indicator: SKY
+Indicator: RKY
+Indicator: QKY
+Indicator: PKY
+Indicator: OKY
+Indicator: NKY
+Indicator: MKY
+Indicator: LKY
+Indicator: KKY
+Indicator: JKY
+Indicator: IKY
+Indicator: HKY
+Indicator: GKY
+Indicator: FKY
+Indicator: EKY
+Indicator: DKY
+Indicator: CKY
+Indicator: BKY
+Indicator: AKY
+Indicator: ZJY
+Indicator: YJY
+Indicator: XJY
+Indicator: WJY
+Indicator: VJY
+Indicator: UJY
+Indicator: TJY
+Indicator: SJY
+Indicator: RJY
+Indicator: QJY
+Indicator: PJY
+Indicator: OJY
+Indicator: NJY
+Indicator: MJY
+Indicator: LJY
+Indicator: KJY
+Indicator: JJY
+Indicator: IJY
+Indicator: HJY
+Indicator: GJY
+Indicator: FJY
+Indicator: EJY
+Indicator: DJY
+Indicator: CJY
+Indicator: BJY
+Indicator: AJY
+Indicator: ZIY
+Indicator: YIY
+Indicator: XIY
+Indicator: WIY
+Indicator: VIY
+Indicator: UIY
+Indicator: TIY
+Indicator: SIY
+Indicator: RIY
+Indicator: QIY
+Indicator: PIY
+Indicator: OIY
+Indicator: NIY
+Indicator: MIY
+Indicator: LIY
+Indicator: KIY
+Indicator: JIY
+Indicator: IIY
+Indicator: HIY
+Indicator: GIY
+Indicator: FIY
+Indicator: EIY
+Indicator: DIY
+Indicator: CIY
+Indicator: BIY
+Indicator: AIY
+Indicator: ZHY
+Indicator: YHY
+Indicator: XHY
+Indicator: WHY
+Indicator: VHY
+Indicator: UHY
+Indicator: THY
+Indicator: SHY
+Indicator: RHY
+Indicator: QHY
+Indicator: PHY
+Indicator: OHY
+Indicator: NHY
+Indicator: MHY
+Indicator: LHY
+Indicator: KHY
+Indicator: JHY
+Indicator: IHY
+Indicator: HHY
+Indicator: GHY
+Indicator: FHY
+Indicator: EHY
+Indicator: DHY
+Indicator: CHY
+Indicator: BHY
+Indicator: AHY
+Indicator: ZGY
+Indicator: YGY
+Indicator: XGY
+Indicator: WGY
+Indicator: VGY
+Indicator: UGY
+Indicator: TGY
+Indicator: SGY
+Indicator: RGY
+Indicator: QGY
+Indicator: PGY
+Indicator: OGY
+Indicator: NGY
+Indicator: MGY
+Indicator: LGY
+Indicator: KGY
+Indicator: JGY
+Indicator: IGY
+Indicator: HGY
+Indicator: GGY
+Indicator: FGY
+Indicator: EGY
+Indicator: DGY
+Indicator: CGY
+Indicator: BGY
+Indicator: AGY
+Indicator: ZFY
+Indicator: YFY
+Indicator: XFY
+Indicator: WFY
+Indicator: VFY
+Indicator: UFY
+Indicator: TFY
+Indicator: SFY
+Indicator: RFY
+Indicator: QFY
+Indicator: PFY
+Indicator: OFY
+Indicator: NFY
+Indicator: MFY
+Indicator: LFY
+Indicator: KFY
+Indicator: JFY
+Indicator: IFY
+Indicator: HFY
+Indicator: GFY
+Indicator: FFY
+Indicator: EFY
+Indicator: DFY
+Indicator: CFY
+Indicator: BFY
+Indicator: AFY
+Indicator: ZEY
+Indicator: YEY
+Indicator: XEY
+Indicator: WEY
+Indicator: VEY
+Indicator: UEY
+Indicator: TEY
+Indicator: SEY
+Indicator: REY
+Indicator: QEY
+Indicator: PEY
+Indicator: OEY
+Indicator: NEY
+Indicator: MEY
+Indicator: LEY
+Indicator: KEY
+Indicator: JEY
+Indicator: IEY
+Indicator: HEY
+Indicator: GEY
+Indicator: FEY
+Indicator: EEY
+Indicator: DEY
+Indicator: CEY
+Indicator: BEY
+Indicator: AEY
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+? -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+N  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+S  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 2
+Indicator: AEY
+Checking letter: G
+
+ 3:XRF A>N R
+12:XRO A>N L
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+N  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0 -1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0
+S  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 5
+Indicator: AEY
+Checking letter: R
+
+ 4:XRN N>B A
+11:XRL N>Q G
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0 -1  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+N  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0 -1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0
+S  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 6
+Indicator: AEY
+Checking letter: A
+
+ 5:XRM B>V S
+ 5:XRM G>H S
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+N  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0 -1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0
+S  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 8
+Indicator: AEY
+Checking letter: S
+
+ 6:XRG H>C V
+ 6:XRG V>G V
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0 -1  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+N  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0 -1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0
+S  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0 -1  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 9
+Indicator: AEY
+Checking letter: V
+
+ 7:XRP C>M E
+ 7:XRP G>K E
+ 7:XRP S>A E
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0 -1  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E -1  0  0  0  0  0  0  0  0  0 -1  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0 -1  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+N  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0 -1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0
+S  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 10
+Indicator: AEY
+Checking letter: N
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0 -1  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E -1  0  0  0  0  0  0  0  0  0 -1  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0 -1  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+N  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0
+S  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 8
+Indicator: AEY
+Checking letter: H
+
+ 9:XRJ S>M Z
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0 -1  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E -1  0  0  0  0  0  0  0  0  0 -1  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0 -1  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0
+S  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 8
+Indicator: AEY
+Checking letter: Z
+
+10:XRI M>V R
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0 -1  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E -1  0  0  0  0  0  0  0  0  0 -1  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0 -1  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0 -1  0  0  0  0
+S  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 9
+Indicator: AEY
+Checking letter: L
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0 -1  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E -1  0  0  0  0  0  0  0  0  0 -1  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0 -1  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0 -1  0  0  0  0
+S  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 8
+Indicator: AEY
+Checking letter: U
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0 -1  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E -1  0  0  0  0  0  0  0  0  0 -1  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0 -1  0  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0 -1  0  0  0  0
+S  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 8
+Indicator: AEY
+Checking letter: E
+
+ 2:XRE A>W G
+ 8:XRB A>E N
+ 2:XRE K>Q G
+ 8:XRB K>F N
+ 2:XRE M>D G
+ 8:XRB M>P N
+ 2:XRE N>F G
+ 8:XRB N>J N
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0 -1  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+E  1  0  0  0  0  0  0  0  0  0  1  0  1  1  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0 -1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0 -1 -1  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0
+M  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0 -1 -1  0  0  0 -1  0  1  0  0  0 -1  0  1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0 -1  0  0  0  0
+S  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 12
+Indicator: AEY
+Checking letter: G
+
+ 3:XRF D>V R
+12:XRO D>L L
+ 3:XRF F>L R
+12:XRO F>X L
+ 3:XRF Q>T R
+12:XRO Q>P L
+ 3:XRF V>D R
+12:XRO V>M L
+ 3:XRF W>H R
+12:XRO W>Y L
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0 -1  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+B  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+E  1  0  0  0  0  0  0  0  0  0  1  0  1  1  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+?  1  0  0  1  0  1  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  1  1  0  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+I  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0 -1 -1  1  0 -1  0 -1  0  0  0  0  0 -1 -1  0
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0 -1 -1  0  0  0 -1  0  1  0  0  0 -1  0  1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0 -1  0  0  0 -1  0  0  0 -1  0  1  0  0  0  0  0 -1  0 -1  0  0  0  0
+S  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+W  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 18
+Indicator: AEY
+Checking letter: R
+
+ 4:XRN D>S A
+11:XRL D>B G
+ 4:XRN H>I A
+11:XRL H>K G
+ 4:XRN L>U A
+11:XRL L>I G
+ 4:XRN T>E A
+11:XRL T>X G
+ 4:XRN V>W A
+11:XRL V>J G
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0 -1  0  1  0 -1  0  0  0  0  0  0  0  0  0 -1  0 -1  0 -1  0  0  0
+B  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+E  1  0  0  0  0  0  0  0  0  0  1  0  1  1  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+?  1 -1  0  1  0  1  0  0 -1 -1 -1  0  0  0  0  0  1  0  0  0  0  1  1 -1  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0 -1 -1  1  0 -1  0 -1  0  0  0  0  0 -1 -1  0
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0 -1 -1  0  0  0 -1  0  1  0  0  0 -1  0  1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0  0  0  1  0  1  0  0  0  0
+S -1  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 24
+Indicator: AEY
+Checking letter: A
+
+ 5:XRM E>K S
+ 5:XRM I>J S
+ 5:XRM S>W S
+ 5:XRM U>F S
+ 5:XRM W>S S
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0  0  0  0  0  0  0  0  1  0  1  0  1  0  0  0
+B  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+E  1  0  0  0  0  0  0  0  0  0  1  0  1  1  0  0  0  0  0  0  0  0  0  0  0  0
+F  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0
+?  1 -1  0  1  0  1  0  0 -1 -1 -1  0  0  0  0  0  1  0  0  0  0  1  1 -1  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0 -1 -1  1  0 -1  0 -1  0  0  0  0  0 -1 -1  0
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0 -1 -1  0  0  0 -1  0  1  0  0  0 -1  0  1  0  0  0  0  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0  0  0  1  0  1  0  0  0  0
+S -1  0  0  0  0 -1  0  1  0 -1 -1  0  0  0  0  0  0  0 -1  0  0  1 -1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 24
+Indicator: AEY
+Checking letter: S
+
+ 6:XRG A>E V
+ 6:XRG F>J V
+ 6:XRG J>F V
+ 6:XRG K>D V
+ 6:XRG S>L V
+ 6:XRG W>N V
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0  0  0  0  0  0  0  0  1  0  1  0  1  0  0  0
+B  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+E  1  0  0  0  0  0  0  0  0  0  1  0  1  1  0  0  0  0  0  0  0 -1  0  0  0  0
+F  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+?  1 -1  0  1  0  1  0  0 -1 -1 -1  0  0  0  0  0  1  0  0  0  0  1  1 -1  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0 -1 -1  1  0 -1  0 -1  0  0  0 -1  0 -1 -1  0
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0 -1 -1  0  0  0 -1  0  1  0  0  0 -1  0  1  0  0  0 -1  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  0  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0  0  0  1  0  1  0  0  0  0
+S  1  0  0  0  0  1  0  1  0  1  1  0  0  0  0  0  0  0  1  0  0  1  1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1 -1 -1 -1  1  0  0 -1  0 -1  0 -1  0  0  0 -1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+X  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 27
+Indicator: AEY
+Checking letter: V
+
+ 7:XRP D>P E
+ 7:XRP E>F E
+ 7:XRP F>E E
+ 7:XRP J>B E
+ 7:XRP L>X E
+ 7:XRP N>Q E
+ 7:XRP R>U E
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0  0  0  0  0  0  0  0  1  0  1  0  1  0  0  0
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+E  1 -1  0  0 -1 -1  0  0  0  0  1  0  1  1  0 -1 -1  0  0  0 -1 -1  0 -1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+?  1 -1  0  1  0  1  0  0 -1 -1 -1  0  0  0  0  0  1  0  0  0  0  1  1 -1  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0 -1 -1  1  0 -1  0 -1  0  0  0 -1  0 -1 -1  0
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0 -1 -1  0  0  0 -1  0  1  0  0  0 -1  0  1  0  0  0 -1  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0  0  0  1  0  1  0  0  0  0
+S  1  0  0  0  0  1  0  1  0  1  1  0  0  0  0  0  0  0  1  0  0  1  1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U -1  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+X  0  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 28
+Indicator: AEY
+Checking letter: N
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0  0  0  0  0  0  0  0  1  0  1  0  1  0  0  0
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+E  1 -1  0  0 -1 -1  0  0  0  0  1  0  1  1  0 -1 -1  0  0  0 -1 -1  0 -1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+?  1 -1  0  1  0  1  0  0 -1 -1 -1  0  0  0  0  0  1  0  0  0  0  1  1 -1  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0 -1 -1  1  0 -1  0 -1  0  0  0 -1  0 -1 -1  0
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0  1  1  0  0  0  1  0  1  0  0  0  1  0  1  0  0  0  1  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0  0  0  1  0  1  0  0  0  0
+S  1  0  0  0  0  1  0  1  0  1  1  0  0  0  0  0  0  0  1  0  0  1  1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U -1  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+X  0  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 23
+Indicator: AEY
+Checking letter: H
+
+ 9:XRJ R>L Z
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0  0  0  0  0  0  0  0  1  0  1  0  1  0  0  0
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+E  1 -1  0  0 -1 -1  0  0  0  0  1  0  1  1  0 -1 -1  0  0  0 -1 -1  0 -1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+?  1 -1  0  1  0  1  0  0 -1 -1 -1  0  0  0  0  0  1  0  0  0  0  1  1 -1  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0 -1 -1  1  0 -1  0 -1  0  0  0 -1  0 -1 -1 -1
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0  1  1  0  0  0  1  0  1  0  0  0  1  0  1  0  0  0  1  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0  0  0  1  0  1  0  0  0  0
+S  1  0  0  0  0  1  0  1  0  1  1  0  0  0  0  0  0  0  1  0  0  1  1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U -1  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+X  0  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0 -1  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 24
+Indicator: AEY
+Checking letter: Z
+
+10:XRI L>R R
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0  0  0  0  0  0  0  0  1  0  1  0  1  0  0  0
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+E  1 -1  0  0 -1 -1  0  0  0  0  1  0  1  1  0 -1 -1  0  0  0 -1 -1  0 -1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+?  1 -1  0  1  0  1  0  0 -1 -1 -1  0  0  0  0  0  1  0  0  0  0  1  1 -1  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0 -1 -1  1  0 -1  0 -1  0  0  0 -1  0 -1 -1 -1
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0  1  1  0  0  0  1  0  1  0  0  0  1  0  1  0  0  0  1  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0 -1  0  1  0  1  0  0  0  0
+S  1  0  0  0  0  1  0  1  0  1  1  0  0  0  0  0  0  0  1  0  0  1  1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U -1  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+X  0  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  1  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 24
+Indicator: AEY
+Checking letter: L
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0  0  0  0  0  0  0  0  1  0  1  0  1  0  0  0
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+E  1 -1  0  0 -1 -1  0  0  0  0  1  0  1  1  0 -1 -1  0  0  0 -1 -1  0 -1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+?  1 -1  0  1  0  1  0  0 -1 -1 -1  0  0  0  0  0  1  0  0  0  0  1  1 -1  0  0
+H  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  1  1  1  0  1  0  1  0  0  0  1  0  1  1  1
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0  1  1  0  0  0  1  0  1  0  0  0  1  0  1  0  0  0  1  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0 -1  0  1  0  1  0  0  0  0
+S  1  0  0  0  0  1  0  1  0  1  1  0  0  0  0  0  0  0  1  0  0  1  1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U -1  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+X  0  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  1  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 16
+Indicator: AEY
+Checking letter: U
+
+ 1:XRK A>H E
+ 1:XRK E>C E
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0  0  0  0  0  0  0  0  1  0  1  0  1  0  0  0
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+E  1 -1 -1  0 -1 -1  0 -1  0  0  1  0  1  1  0 -1 -1  0  0  0 -1 -1  0 -1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+?  1 -1  0  1  0  1  0  0 -1 -1 -1  0  0  0  0  0  1  0  0  0  0  1  1 -1  0  0
+H  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+L  0  0  0  0  0  0  0  0  0  0  0  1  1  1  0  1  0  1  0  0  0  1  0  1  1  1
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  2
+N  0  0  0  0  1  1  0  0  0  1  0  1  0  0  0  1  0  1  0  0  0  1  0  0  0  0
+O  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0 -1  0  1  0  1  0  0  0  0
+S  1  0  0  0  0  1  0  1  0  1  1  0  0  0  0  0  0  0  1  0  0  1  1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U  1  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+X  0  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  1  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 17
+Indicator: AEY
+Checking letter: E
+
+ 2:XRE B>S G
+ 8:XRB B>D N
+ 2:XRE C>O G
+ 8:XRB C>Y N
+ 2:XRE E>I G
+ 8:XRB E>A N
+ 2:XRE F>N G
+ 8:XRB F>K N
+ 2:XRE H>V G
+ 8:XRB H>X N
+ 2:XRE P>U G
+ 8:XRB P>M N
+ 2:XRE Q>K G
+ 8:XRB Q>L N
+ 2:XRE U>P G
+ 8:XRB U>Z N
+ 2:XRE V>H G
+ 8:XRB V>G N
+ 2:XRE X>L G
+ 8:XRB X>H N
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0  0  0 -1  0  0  0  0  1  0  1  0  1  0  0  0
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  0  1  0  0  1  0  1  1  0  1  1  0  0  0  1  1  0  1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+?  1 -1  0  1  0  1  0 -1 -1 -1 -1 -1  0 -1 -1 -1  1  0 -1  0 -1  1  1 -1  0  0
+H  0  0  0  0 -1  0 -1  0  0  0  0  0  0 -1  0  0  0  1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0
+L  0  0  0  0  0  0 -1  0  0  0  0  1  1  1  0  1  0  1  0  0  0  1  0  1  1  1
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2
+N -1  0  0 -1  1  1 -1 -1  0  1 -1  1 -1  0  0  1  0  1  0  0  0  1  0 -1 -1 -1
+O  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Q  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  0  0  0  1  0  0  0  1  0  0  0  1  0  1  0  0  0 -1  0  1  0  1  0  0  0  0
+S  1  0  0  0  0  1 -1  1  0  1  1  0  0  0  0  0  0  0  1  0  0  1  1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+V  0  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+X  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  1  1 -1  0  0  0  0  0  0  0  0  0  0  0  0
+
+Untraced: 30
+Indicator: AEY
+Checking letter: G
+
+ 3:XRF B>Z R
+12:XRO B>T L
+ 3:XRF H>W R
+12:XRO H>Z L
+ 3:XRF I>X R
+12:XRO I>S L
+ 3:XRF J>P R
+12:XRO J>O L
+ 3:XRF K>G R
+12:XRO K>C L
+ 3:XRF L>F R
+12:XRO L>D L
+ 3:XRF N>A R
+12:XRO N>A L
+ 3:XRF O>C R
+12:XRO O>J L
+ 3:XRF P>J R
+12:XRO P>Q L
+ 3:XRF R>E R
+12:XRO R>G L
+ 3:XRF S>U R
+12:XRO S>I L
+ 3:XRF U>S R
+12:XRO U>E L
+ 3:XRF X>I R
+12:XRO X>F L
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  0  0  1  0  1  0  1  0  0 -1  0 -1  0  0  0 -1  1  0  1  0  1  0  0  0
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+D  0  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  0  1  0  0  1 -1  1  1  0  1  1 -1  0  0  1  1  0  1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  0  1  0  1  0  1  1  1  1  1  0  1  1  1  1  1  1  0  1  1  1  1  0  0
+H  0  0  0  0 -1  0 -1  0  0  0  0  0  0 -1  0  0  0  1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  0  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0
+L -1  0 -1 -1 -1 -1 -1  0 -1 -1  0  1  1  1 -1  1 -1  1 -1 -1  0  1  0  1  1  1
+M  0  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2
+N -1  0  0 -1  1  1 -1 -1  0  1 -1  1 -1  0  0  1  0  1  0  0  0  1  0 -1 -1 -1
+O  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  0  0  0  0  0
+Q  0  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R -1  0 -1  1 -1 -1 -1  1 -1 -1  0  1  0  1  0 -1  0 -1 -1  1 -1  1 -1 -1  0 -1
+S  1  0  0  0  0  1 -1  1  0  1  1 -1  0  0  0  0  0 -1  1  0  0  1  1  0  0  0
+T  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0
+V  0  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  0  0  0  0  0
+X  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  0  0  0  0  0
+Y  0  0  0  0  0  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Z  0  0  0  0  0  0  0  0  0  0  0  1  1 -1  0  0  0 -1  0  0  0  0  0  0  0  0
+
+Untraced: 50
+Indicator: AEY
+Checking letter: R
+
+ 4:XRN A>Q A
+11:XRL A>S G
+ 4:XRN C>G A
+11:XRL C>P G
+ 4:XRN E>T A
+11:XRL E>G G
+ 4:XRN F>O A
+11:XRL F>R G
+ 4:XRN G>C A
+11:XRL G>E G
+ 4:XRN I>H A
+11:XRL I>L G
+ 4:XRN J>Y A
+11:XRL J>V G
+ 4:XRN P>K A
+11:XRL P>C G
+ 4:XRN R>M A
+11:XRL R>F G
+ 4:XRN S>D A
+11:XRL S>A G
+ 4:XRN U>L A
+11:XRL U>O G
+ 4:XRN W>V A
+11:XRL W>Z G
+ 4:XRN X>Z A
+11:XRL X>T G
+ 4:XRN Z>X A
+11:XRL Z>W G
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1 -1 -1  1  0  1 -1  1  0 -1 -1 -1 -1 -1  0 -1 -1  1 -1  1 -1  1 -1 -1 -1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+E  1  1  1  0  1  1 -1  1  0  0  1 -1  1  1  0  1  1 -1  0  0  1  1  0  1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1  0 -1
+H -1  0  0  0 -1  0 -1  0  0  0  0  0  0 -1  0  0  0  1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0
+L -1  0 -1 -1 -1 -1 -1  0 -1 -1  0  1  1  1 -1  1 -1  1 -1 -1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2
+N -1  0  0 -1  1  1 -1 -1  0  1 -1  1 -1  0  0  1  0  1  0  0  0  1  0 -1 -1 -1
+O  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1  0  1  0  1  0  1  1  1  1  1  1  1  0  1
+S  1  0  0  0  0  1 -1  1  0  1  1 -1  0  0  0  0  0 -1  1  0  0  1  1  0  0  0
+T  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0
+V -1  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  0  0  0  0  0
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  0  0  0  0  0
+Y  2  0  0  0  0  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  0
+Z -1  0  0  0  0  0 -1  0  0  0  0  1  1 -1  0  0  0 -1  0  0  0  0  0  0  0  0
+
+Untraced: 58
+Indicator: AEY
+Checking letter: A
+
+ 5:XRM C>Z S
+ 5:XRM D>X S
+ 5:XRM H>G S
+ 5:XRM K>E S
+ 5:XRM L>A S
+ 5:XRM M>P S
+ 5:XRM N>Y S
+ 5:XRM O>T S
+ 5:XRM Q>R S
+ 5:XRM R>Q S
+ 5:XRM T>O S
+ 5:XRM V>B S
+ 5:XRM X>D S
+ 5:XRM Y>N S
+ 5:XRM Z>C S
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1 -1  1  0  0  1 -1  1  1  0  1  1 -1 -1  0  1  1  0  1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1  0 -1
+H -1  0  0  0 -1  0 -1  0  0  0  0  0  0 -1  0  0  0  1  1  0  0  0  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  0
+L -1  0 -1 -1 -1 -1 -1  0 -1 -1  0  1  1  1 -1  1 -1  1 -1 -1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2
+N -1  0  0 -1  1  1 -1 -1  0  1 -1  1 -1  0  0  1  0  1 -1  0  0  1  0 -1 -1 -1
+O  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  0  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1  0  1  0  1  0  1  1  1  1  1  1  1  0  1
+S  1 -1 -1 -1 -1  1 -1  1  0  1  1 -1  0 -1 -1 -1 -1 -1  1 -1  0  1  1 -1 -1 -1
+T  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  0
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  0  0  0
+V -1  0  1  1  1  1  1  0  0  1  0  1  0  1  0  0  0  1  1  0  0  0  0  0  0  0
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  0  0  0  0  0
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  0  0  0  0  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  0
+Z -1  0  0  0  0  0 -1  0  0  0  0  1  1 -1  0  0  0 -1 -1  0  0  0  0  0  0  0
+
+Untraced: 58
+Indicator: AEY
+Checking letter: S
+
+ 6:XRG B>Z V
+ 6:XRG C>H V
+ 6:XRG D>K V
+ 6:XRG E>A V
+ 6:XRG G>V V
+ 6:XRG L>S V
+ 6:XRG N>W V
+ 6:XRG O>R V
+ 6:XRG P>I V
+ 6:XRG Q>Y V
+ 6:XRG R>O V
+ 6:XRG T>U V
+ 6:XRG X>M V
+ 6:XRG Y>Q V
+ 6:XRG Z>B V
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1 -1  1  0  0  1 -1  1  1  0  1  1 -1 -1  0  1  1  0  1  0  0
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1  0 -1
+H -1  0  0  0 -1  0 -1  0  0  0  0  0  0 -1  0  0  0  1  1  0  0 -1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+L -1  0 -1 -1 -1 -1 -1  0 -1 -1  0  1  1  1 -1  1 -1  1 -1 -1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  2  0  0  0  2
+N -1  0  0 -1  1  1 -1 -1  0  1 -1  1 -1  0  0  1  0  1 -1  0  0  1  0 -1 -1 -1
+O  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1  0  1  0  1  0  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  0
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0 -1  0  0  0  0
+V -1 -1  1  1  1  1  1 -1 -1  1 -1  1 -1  1 -1  0 -1  1  1  0 -1 -1 -1  0 -1 -1
+W  2  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  0  0  0  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z -1  0  0  0  0  0 -1  0  0  0  0  1  1 -1  0  0  0 -1 -1  0  0 -1  0  0  0  0
+
+Untraced: 58
+Indicator: AEY
+Checking letter: V
+
+ 7:XRP A>S E
+ 7:XRP B>J E
+ 7:XRP H>O E
+ 7:XRP I>T E
+ 7:XRP K>G E
+ 7:XRP M>C E
+ 7:XRP O>H E
+ 7:XRP Q>N E
+ 7:XRP U>R E
+ 7:XRP V>W E
+ 7:XRP W>V E
+ 7:XRP Y>Z E
+ 7:XRP Z>Y E
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1 -1  1  0 -1  1 -1  1  1 -1  1  1 -1 -1 -1  1  1 -1  1 -1 -1
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1  0 -1
+H -1  0  0  0 -1  0 -1  0  0  0  0  0  0 -1  0  0  0  1  1  0  0 -1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+L -1  0 -1 -1 -1 -1 -1  0 -1 -1  0  1  1  1 -1  1 -1  1 -1 -1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  2  0  0  0  2
+N -1  0  0 -1  1  1 -1 -1  0  1 -1  1 -1  0  0  1  0  1 -1  0  0  1  0 -1 -1 -1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1  0  1  0  1  0  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  0
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0 -1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z -1  0  0  0 -1  0 -1  0  0  0  0  1  1 -1  0  0  0 -1 -1  0  0 -1  0  0  0  0
+
+Untraced: 52
+Indicator: AEY
+Checking letter: N
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1 -1  1  0 -1  1 -1  1  1 -1  1  1 -1 -1 -1  1  1 -1  1 -1 -1
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1  0 -1
+H -1  0  0  0 -1  0 -1  0  0  0  0  0  0 -1  0  0  0  1  1  0  0 -1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+L -1  0 -1 -1 -1 -1 -1  0 -1 -1  0  1  1  1 -1  1 -1  1 -1 -1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  2  0  0  0  2
+N  1  0  0  1  1  1  1  1  0  1  1  1  1  0  0  1  0  1  1  0  0  1  0  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1  0  1  0  1  0  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  0
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0 -1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z -1  0  0  0 -1  0 -1  0  0  0  0  1  1 -1  0  0  0 -1 -1  0  0 -1  0  0  0  0
+
+Untraced: 42
+Indicator: AEY
+Checking letter: H
+
+ 9:XRJ A>T Z
+ 9:XRJ E>N Z
+ 9:XRJ G>O Z
+ 9:XRJ N>E Z
+ 9:XRJ V>W Z
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1 -1  1  0 -1  1 -1  1  1 -1  1  1 -1 -1 -1  1  1 -1  1 -1 -1
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1  0 -1
+H  1  0  0  0  1  0  1  0  0  0  0  0  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+L -1  0 -1 -1 -1 -1 -1  0 -1 -1  0  1  1  1 -1  1 -1  1 -1 -1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  0  0  0  2  0  0  0  2
+N  1  0  0  1  1  1  1  1  0  1  1  1  1  0  0  1  0  1  1  0  0  1  0  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  2
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1  0  1  0  1  0  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  2
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0 -1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z -1  0  0  0 -1  0 -1  0  0  0  0  1  1 -1 -1  0  0 -1 -1 -1  0 -1 -1  0  0  0
+
+Untraced: 40
+Indicator: AEY
+Checking letter: Z
+
+10:XRI A>G R
+10:XRI E>N R
+10:XRI G>A R
+10:XRI N>E R
+10:XRI O>Q R
+10:XRI R>L R
+10:XRI S>T R
+10:XRI T>S R
+10:XRI V>M R
+10:XRI W>X R
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1 -1  1  0 -1  1 -1  1  1 -1  1  1 -1 -1 -1  1  1 -1  1 -1 -1
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1  0 -1
+H  1  0  0  0  1  0  1  0  0  0  0  0  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+L -1  0 -1 -1 -1 -1 -1  0 -1 -1  0  1  1  1 -1  1 -1  1 -1 -1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  2
+N  1  0  0  1  1  1  1  1  0  1  1  1  1  0  0  1  0  1  1  0  0  1  0  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  2
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1 -1  1  0  1 -1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  2
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0 -1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 32
+Indicator: AEY
+Checking letter: L
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1 -1  1  0 -1  1 -1  1  1 -1  1  1 -1 -1 -1  1  1 -1  1 -1 -1
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1  0 -1
+H  1  0  0  0  1  0  1  0  0  0  0  0  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+L  1  0  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  2
+N  1  0  0  1  1  1  1  1  0  1  1  1  1  0  0  1  0  1  1  0  0  1  0  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  2
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1 -1  1  0  1 -1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  2
+U  1  0  0  0  1  0 -1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0 -1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 20
+Indicator: AEY
+Checking letter: U
+
+ 1:XRK G>W E
+ 1:XRK R>S E
+ 1:XRK V>Z E
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1 -1  1  0 -1  1 -1  1  1 -1  1  1 -1 -1 -1  1  1 -1  1 -1 -1
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1  0 -1
+H  1  0  0  0  1  0  1  0  0  0  0  0  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  0  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+L  1  0  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  2
+N  1  0  0  1  1  1  1  1  0  1  1  1  1  0  0  1  0  1  1  0  0  1  0  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  0  2  0  0  2  0  0  0  2
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1 -1  1  0  1 -1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  0  0  0  0  0  0  1  0  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 17
+Indicator: AEY
+Checking letter: E
+
+ 2:XRE G>R G
+ 8:XRB G>V N
+ 2:XRE J>Y G
+ 8:XRB J>N N
+ 2:XRE L>X G
+ 8:XRB L>Q N
+ 2:XRE O>C G
+ 8:XRB O>R N
+ 2:XRE R>G G
+ 8:XRB R>O N
+ 2:XRE S>B G
+ 8:XRB S>W N
+ 2:XRE T>Z G
+ 8:XRB T>I N
+ 2:XRE W>A G
+ 8:XRB W>S N
+ 2:XRE Y>J G
+ 8:XRB Y>C N
+ 2:XRE Z>T G
+ 8:XRB Z>U N
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  0  0  0  0  0  0  0  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1 -1  1 -1  1 -1  1  1  1  1  1  0  1  1  1  1  1  1 -1  1  1  1  1 -1 -1
+H  1  0  0  0  1  0  1  0  0  0  0  0  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+L  1  0  1  1  1  1  1  0  1  1  0  1  1  1  1  1  1  1  1  1  0  1  0  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  2
+N  1  0 -1  1  1  1  1  1 -1  1  1  1  1 -1 -1  1 -1  1  1  0 -1  1 -1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  2
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  0  1  1  1  1  1  1  1  1  0  1 -1  1  0  1 -1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  0  0 -1  0  0  0  1  0  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  0  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 16
+Indicator: AEY
+Checking letter: G
+
+ 3:XRF C>O R
+12:XRO C>K L
+ 3:XRF E>R R
+12:XRO E>U L
+ 3:XRF G>K R
+12:XRO G>R L
+ 3:XRF T>Q R
+12:XRO T>B L
+ 3:XRF Y>M R
+12:XRO Y>W L
+ 3:XRF Z>B R
+12:XRO Z>H L
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  0  1  1  1  1  0  1  1  1  0  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0 -1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1 -1  1  1  1  1  1 -1  1  1 -1  1  1  1  1  1  1  1  1  1 -1  1 -1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  2
+N  1  0 -1  1  1  1  1  1 -1  1  1  1  1 -1 -1  1 -1  1  1  0 -1  1 -1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1 -1  1  1  1  1  1  1  1  1 -1  1 -1  1 -1  1 -1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0 -1  0 -1  0  0  0  1  0  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 20
+Indicator: AEY
+Checking letter: R
+
+ 4:XRN B>N A
+11:XRL B>D G
+ 4:XRN K>P A
+11:XRL K>H G
+ 4:XRN M>R A
+11:XRL M>Y G
+ 4:XRN O>F A
+11:XRL O>U G
+ 4:XRN Q>A A
+11:XRL Q>N G
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A -1  1  1  1  1 -1  1  1  1  0  1  1  1  1  1 -1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0 -1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1 -1  1  1  1  1  1 -1  1  1 -1  1  1  1  1  1  1  1  1  1 -1  1 -1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  2
+N  1  0 -1  1  1  1  1  1 -1  1  1  1  1 -1 -1  1 -1  1  1  0 -1  1 -1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  1  1  1  1  0  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0 -1  0 -1  0  0  0  1  0  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 18
+Indicator: AEY
+Checking letter: A
+
+ 5:XRM A>L S
+ 5:XRM F>U S
+ 5:XRM P>M S
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0 -1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1 -1  1  1  1  1  1 -1  1  1 -1  1  1  1  1  1  1  1  1  1 -1  1 -1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0 -1  1  1  1  1  1 -1  1  1  1  1 -1 -1  1 -1  1  1  0 -1  1 -1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1 -1  1  1  1  1  1  1  1 -1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  0  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0 -1  0 -1  0  0  0  1 -1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  0  1  1  1  0  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 18
+Indicator: AEY
+Checking letter: S
+
+ 6:XRG M>X V
+ 6:XRG U>T V
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0 -1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1 -1  1  1  1  1  1 -1  1  1 -1  1  1  1  1  1  1  1  1  1 -1  1 -1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0 -1  1  1  1  1  1 -1  1  1  1  1 -1 -1  1 -1  1  1  0 -1  1 -1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0 -1  0 -1  0  0  0  1 -1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1 -1  1  1  1 -1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 18
+Indicator: AEY
+Checking letter: V
+
+ 7:XRP T>I E
+ 7:XRP X>L E
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1 -1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0 -1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1 -1  1  1  1  1  1 -1  1  1 -1  1  1  1  1  1  1  1  1  1 -1  1 -1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0 -1  1  1  1  1  1 -1  1  1  1  1 -1 -1  1 -1  1  1  0 -1  1 -1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0 -1  0 -1  0  0  0  1 -1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 17
+Indicator: AEY
+Checking letter: N
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1 -1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0 -1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1 -1  1  1  1  1  1 -1  1  1 -1  1  1  1  1  1  1  1  1  1 -1  1 -1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0 -1  0 -1  0  0  0  1 -1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 10
+Indicator: AEY
+Checking letter: H
+
+ 9:XRJ L>R Z
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1 -1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1 -1  1  1  1  1  1 -1  1  1 -1  1  1  1  1  1  1  1  1  1 -1  1 -1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0 -1  0 -1  0  0  0  1 -1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 9
+Indicator: AEY
+Checking letter: Z
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1 -1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1 -1  1  1  1  1  1 -1  1  1 -1  1  1  1  1  1  1  1  1  1 -1  1 -1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0 -1  0 -1  0  0  0  1 -1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 9
+Indicator: AEY
+Checking letter: L
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1 -1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0 -1  0 -1  0  0  0  1 -1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 4
+Indicator: AEY
+Checking letter: U
+
+ 1:XRK L>N E
+ 1:XRK N>L E
+ 1:XRK S>R E
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1 -1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 1
+Indicator: AEY
+Checking letter: E
+
+ 2:XRE I>E G
+ 8:XRB I>T N
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 -1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 1
+Indicator: AEY
+Checking letter: G
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 -1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 1
+Indicator: AEY
+Checking letter: R
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 -1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 1
+Indicator: AEY
+Checking letter: A
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 -1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 1
+Indicator: AEY
+Checking letter: S
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 -1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 1
+Indicator: AEY
+Checking letter: V
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 -1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 1
+Indicator: AEY
+Checking letter: N
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 0
+Indicator: AEY
+Checking letter: H
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 0
+Indicator: AEY
+Checking letter: Z
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 0
+Indicator: AEY
+Checking letter: L
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 0
+Indicator: AEY
+Checking letter: U
+
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+Untraced: 0
+Indicator: AEY
+Checking letter: E
+
+Stop!
+
+Indicator: AEY
+   A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+A  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+B  2  0  0  0  2  0  2  0  0  0  0  2  0  0  0  0  0  2  2  0  0  2  0  0  0  0
+C  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+D  2  0  0  0  0  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+E  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+F  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+?  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+H  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+I  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  0  0  0  2  0  0  0  0
+J  0  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+K  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+L  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+M  2  0  0  0  2  0  0  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+N  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+O  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+P  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  0  0  0  0  0
+Q  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+R  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1
+S  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+T  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+U  1  0  0  0  1  0  1  0  0  0  0  1  0  1  0  0  0  1  1  0  0  1  0  0  0  0
+V  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1
+W  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  2
+X  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  2  2  0  0  2  0  0  0  0
+Y  2  0  0  0  2  0  2  0  0  0  0  2  0  2  0  0  0  0  2  0  0  2  0  0  0  0
+Z  1  0  0  0  1  0  1  0  0  0  0  1  1  1  1  0  0  1  1  1  0  1  1  0  0  0
+
+
+Test register:
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+  1  1  1  1  1  1  1  1  1  1  1  1  0  1  1  1  1  1  1  1  1  1  1  1  1  1
+Press ENTER key to continue run.

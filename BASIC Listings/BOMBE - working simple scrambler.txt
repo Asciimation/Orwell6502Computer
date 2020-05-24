@@ -1,0 +1,67 @@
+
+100 REM ENIGMA rotors and layout
+110 REM   "ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
+120 R1$ = "EKMFLGDQVZNTOWYHXUSPAIBRCJ" : REM Rotor I
+130 R2$ = "AJDKSIRUXBLHWTMCQGZNPYFVOE" : REM Rotor II
+140 R3$ = "BDFHJLCPRTXVZNYEIWGAKMUSQO" : REM Rotor III
+150 R4$ = "ESOVPZJAYQUIRHXLNFTGKDCMWB" : REM Rotor IV
+150 R5$ = "VZBRGITYUPSDNHLXAWMJQOFECK" : REM Rotor V
+
+150 REM ENIGMA refelctors
+160 UB$ = "YRUHQSLDPXNGOKMIEBFZCWVJAT" : REM Reflector B
+170 UC$ = "FVPJIAOYEDRZXWGCTKUQSBNMHL" : REM Reflector C
+
+200 REM Bombe setup
+210 D1$ = R3$ : REM Top drum
+220 D2$ = R2$ : REM Middle drum
+230 D3$ = R1$ : REM Bottom drum
+240 RF$ = UB$ : REM Reflector
+
+250 DIM DO(11) : REM Drum bank relative offsets
+
+300 REM Some required variables
+310 OF = 0 : REM Offset
+320 SV = 0 : REM Scrambler value
+330 V$ = "" : REM Scrambler character
+340 CD$ = D1$ : REM Current scrambler drum
+
+1000 REM Main program
+1010 PRINT : PRINT "INPUT LETTER"
+1020 INPUT L$
+1030 SV = ASC(L$) - 64
+1040 GOSUB 2000
+1050 GOTO 1010
+
+
+
+
+2000 REM Scrambler
+2005 PRINT CHR$(SV + 64);
+2010 V$ = MID$(D1$, SV, 1)  
+2020 SV = ASC(V$) - 64 : PRINT V$;
+2030 V$ = MID$(D2$, SV, 1)
+2040 SV = ASC(V$) - 64 : PRINT V$;
+2050 V$ = MID$(D3$, SV, 1)
+2060 SV = ASC(V$) - 64 : PRINT V$;
+
+2070 V$ = MID$(RF$, SV, 1) : PRINT V$;
+
+2090 CD$ = D3$
+2100 GOSUB 2500 : PRINT V$;
+2110 CD$ = D2$
+2120 GOSUB 2500 : PRINT V$;
+2130 CD$ = D1$
+2140 GOSUB 2500 : PRINT V$;
+2150 RETURN
+
+2500 REM Scrambler lookup
+2510 FOR I = 1 TO 26 
+2520 IF MID$(CD$, I, 1) = V$ THEN SV = I : GOTO 2540
+2530 NEXT I
+2540 V$ = CHR$(SV + 64)
+2550 RETURN
+
+
+
+
+

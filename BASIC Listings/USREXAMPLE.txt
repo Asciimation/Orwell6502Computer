@@ -1,0 +1,13 @@
+10 POKE 2048, 73		:REM LDA instruction, $49 = 73.
+20 POKE 2049, 170		:REM Value to store, $AA = 170.
+30 POKE 2050, 141		:REM STA instruction, $8D = 141.
+40 POKE 2051, 0		    :REM LSB of address to store at, $00 = 0.
+50 POKE 2052, 96		:REM MSB of address to store at, $60 = 96.
+60 POKE 2053, 96		:REM RTS instruction, $60 = 96.
+
+100 POKE 11, 0		    :REM LSB of USR function location, $00 = 0.
+110 POKE 12, 8		    :REM MSB of USR function location, $08 = 8.
+
+120 X=USR(0)
+130 END
+
