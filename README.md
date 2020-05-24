@@ -310,6 +310,8 @@ POKE 16897, 240     ;Port a in binary 1111000
 POKE 16897, 0       ;Port a in binary 0000000
 ```
 
+### Board layout
+
 ![CPU Board Layout](cpu_board.jpg "CPU Board Layout")
 
 ![IO Board Layout](io_board.jpg "IO Board Layout")
