@@ -1,6 +1,6 @@
 # Orwell 6502 Computer
 
-This is the source code used in my Orwell 6502 computer project. This is a home made 6502 computer made to my own design running a fairly generic flavoue of 1980s BASIC.
+This is the source code used in my Orwell 6502 computer project. This is a home made 6502 computer made to my own design running a fairly generic flavour of 1980s BASIC.
 
 The original project is described here: [Orwell Computer](https://web.archive.org/web/20190803190500/http://www.asciimation.co.nz/bb/category/6502-computer)
 
