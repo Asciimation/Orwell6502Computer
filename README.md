@@ -329,7 +329,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Thanks to the author and maintainers of [CA65](https://www.cc65.org/)
 
-And to Grant Searle for his video/keyboard controller [Grant Searle](www.searle.wales)
+And to Grant Searle for his video/keyboard controller [Grant Searle](https://www.searle.wales)
 
 
 
